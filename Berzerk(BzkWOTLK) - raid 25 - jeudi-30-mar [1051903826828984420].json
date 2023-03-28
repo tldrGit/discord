@@ -1,0 +1,2155 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "1051903826828984420",
+    "type": "GuildTextChat",
+    "categoryId": "852936805288640563",
+    "category": "raid 25",
+    "name": "jeudi-30-mar",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1051904740633620610",
+      "type": "Default",
+      "timestamp": "2022-12-12T16:53:53.612+00:00",
+      "timestampEdited": "2022-12-29T19:20:01.194+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Jrmou - ID: 1051904740633620610 \n**:W: :O: :R: :L: :D: :empty: :T: :O: :U: :R: :empty: :2: :5: **\n\nWorld tour 25",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: December 29, 2022",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **15** (+3)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **6** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **6** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Protection: `2` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (2):**\n:Fury: `13` **kolossal\uD83C\uDF51**\n:Fury: `18` **luffy**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (2):**\n:Retribution: `4` **Balnar\uD83C\uDF47**\n:Holy1: `7` **Météo**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (2):**\n:Combat: `6` **Shunzo\uD83D\uDDE1**\n:Assassination: `10` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `25` **Blyxee**\n:Survival: `29` **Harda**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `12` **Misti\uD83E\uDDD9**\n:Arcane: `19` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (1):**\n:Destruction: `17` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Restoration1: `3` **Surtur\uD83E\uDE79**\n:Enhancement: `11` **Lipido\uD83C\uDF0C**\n:Elemental: `16` **Wigmard**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (3) : :Retribution: `1` **Jrmou**, :Affliction: `9` **Chico\uD83D\uDCA6**, :Unholy_DPS: `14` **Gambleurssaé**\n:Absence: Absence (13) :  `5` **Berma\uD83C\uDF46**,  `8` **Skaf\uD83E\uDD55**,  `15` **Kriss\uD83C\uDF77**,  `20` **Garanutt\uD83E\uDD65**,  `21` **LAKAROT\uD83E\uDD55**,  `22` **Sherekahn**,  `23` **Gontule⚔**,  `24` **Arkam**,  `26` **Ecto\uD83D\uDD6F**,  `27` **Una**,  `28` **Mushaka\uD83D\uDD6F**,  `30` **Kalté**,  `31` **Thalose**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1051904740633620610)** | **[Comp](https://raid-helper.dev/raidplan/1051904740633620610)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20221229T192000Z%2F20221229T192000Z&text=World%20tour%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059129778336190494",
+      "type": "Default",
+      "timestamp": "2023-01-01T15:23:36.835+00:00",
+      "timestampEdited": "2023-01-05T19:30:04.568+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: J'essuie ta glace mété\uD83C\uDF4D - ID: 1059129778336190494 \n**:W: :O: :R: :L: :D: :empty: :T: :O: :U: :R: :empty: :2: :5: **\n\nWorld tour 25",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: January 05, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **10** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **4** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `18` **Kn\uD83D\uDD75**\n:Blood_Tank: `29` **Siné\uD83C\uDF4D**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Unholy_DPS: `13` **Gambleurssaé**\n:Frost_DPS: `12` **Shunzo\uD83D\uDDE1**\n:Frost_DPS: `26` **kolossal\uD83C\uDF51**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (2):**\n:Fury: `7` **Gontule⚔**\n:Fury: `30` **Garanutt\uD83E\uDD65**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (1):**\n:Balance: `9` **Thalose**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `8` **Mété**\n:Retribution: `2` **Jrmou**\n:Retribution: `17` **Ronflex**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Assassination: `4` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `19` **Skaf\uD83E\uDD55**\n:Survival: `27` **Harda**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `15` **Molo!Ptn!Molo**\n:Arcane: `24` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Affliction: `1` **Chico\uD83D\uDCA6**\n:Demonology: `10` **Kriss\uD83C\uDF77**\n:Demonology: `32` **Kyxx**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Holy: `21` **Mushaka\uD83D\uDD6F**\n:Shadow: `31` **Hörus**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (4):**\n:Enhancement: `3` **Lipido\uD83C\uDF0C**\n:Restoration1: `6` **Una**\n:Restoration1: `20` **Surtur\uD83E\uDE79**\n:Elemental: `23` **Wigmard**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (7) :  `5` **Luffy**,  `11` **Aeglo\uD83D\uDEE1**,  `14` **Blyxee**,  `16` **Berma**,  `22` **Konétable**,  `25` **Kalté**,  `28` **Ecto\uD83D\uDD6F**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1059129778336190494)** | **[Comp](https://raid-helper.dev/raidplan/1059129778336190494)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230105T193000Z%2F20230105T193000Z&text=World%20tour%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1061386933340741632",
+      "type": "Default",
+      "timestamp": "2023-01-07T20:52:44.524+00:00",
+      "timestampEdited": "2023-01-11T22:08:06.139+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDD75 - ID: 1061386933340741632 \n**:R: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendar: January 12, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclock: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **10** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **4** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `10` **Aeglo\uD83D\uDEE1**\n:Blood_Tank: `20` **Lipido\uD83C\uDF0C**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (2):**\n:Unholy_DPS: `1` **Gambleurssaé**\n:Unholy_DPS: `5` **Berma**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (3):**\n:Fury: `13` **Garanutt\uD83E\uDD65**\n:Fury: `26` **Gontule⚔**\n:Fury: `28` **Kn\uD83D\uDD75**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (1):**\n:Balance: `9` **Thalose**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Retribution: `2` **Jrmou**\n:Holy1: `8` **Mété**\n:Holy1: `27` **Kalté**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (3):**\n:Assassination: `18` **Meren\uD83E\uDD66**\n:Assassination: `23` **Shunzo\uD83D\uDDE1**\n:Assassination: `24` **kolossal\uD83C\uDF51**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (3):**\n:Survival: `12` **Blyxee**\n:Survival: `16` **Skaf\uD83E\uDD55**\n:Survival: `22` **Harda**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (3):**\n:Fire: `4` **Molo!Ptn!Molo**\n:Fire: `7` **Sherekahn**\n:Arcane: `11` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Destruction: `15` **Konétable**\n:Affliction: `19` **Chico\uD83D\uDCA6**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Discipline: `6` **Ecto\uD83D\uDD6F**\n:Holy: `29` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (1):**\n:Elemental: `21` **Wigmard**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (3) : :Demonology: `14` **Kriss\uD83C\uDF77**, :Restoration1: `17` **Surtur\uD83E\uDE79**,  `30` **Ronflex**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (2) :  `3` **Una**,  `25` **Luffy**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)\n**[Web View](https://raid-helper.dev/event/1061386933340741632)** | **[Comp](https://raid-helper.dev/raidplan/1061386933340741632)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230112T193000Z%2F20230112T193000Z&text=R25)** | :closed: since: January 11, 2023 11:07 PM",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1066999662462120018",
+      "type": "Default",
+      "timestamp": "2023-01-23T08:35:43.426+00:00",
+      "timestampEdited": "2023-01-26T19:37:17.821+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1066999662462120018 \n**:U: :L: :D: :U: :A: :R: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: January 26, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `1` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `16` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (4):**\n:Unholy_DPS: `3` **Gambleurssaé**\n:Unholy_DPS: `27` **Berma**\n:Frost_DPS: `20` **kolossal\uD83C\uDF51**\n:Frost_DPS: `24` **Shunzo\uD83D\uDDE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `10` **Gontule⚔**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (2):**\n:Balance: `21` **Thalose**\n:Restoration: `28` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `13` **Mété**\n:Retribution: `12` **Ronflex**\n:Retribution: `22` **Jrmou**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Assassination: `19` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (3):**\n:Survival: `2` **Skaf\uD83E\uDD55**\n:Survival: `5` **Blyxee**\n:Survival: `9` **Harda**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `7` **Molo!Ptn!Molo**\n:Arcane: `18` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Demonology: `6` **Kriss\uD83C\uDF77**\n:Destruction: `23` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Discipline: `4` **Ecto\uD83D\uDD6F**\n:Holy: `11` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Restoration1: `8` **Surtur\uD83E\uDE79**\n:Enhancement: `14` **Lipido\uD83C\uDF0C**\n:Elemental: `17` **Wigmard**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (3) :  `15` **Chico\uD83D\uDCA6**,  `25` **Garanutt\uD83E\uDD65**,  `26` **Kalté**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1066999662462120018)** | **[Comp](https://raid-helper.dev/raidplan/1066999662462120018)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230126T193000Z%2F20230126T193000Z&text=ULDUAR%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069264067988033579",
+      "type": "Default",
+      "timestamp": "2023-01-29T14:33:39.774+00:00",
+      "timestampEdited": "2023-02-02T19:39:22.664+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Siné\uD83C\uDF4D - ID: 1069264067988033579 \n**:U: :L: :D: :U: :A: :R: :empty: :2: :5: :empty: :M: :M: :plus: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: February 02, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **24**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **8** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `18` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `19` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (4):**\n:Unholy_DPS: `1` **Gambleurssaé**\n:Unholy_DPS: `3` **Berma**\n:Frost_DPS: `12` **Shunzo\uD83D\uDDE1**\n:Frost_DPS: `27` **kolossal\uD83C\uDF51**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `6` **Gontule⚔**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (2):**\n:Balance: `2` **Thalose**\n:Restoration: `28` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `5` **Jrmou**\n:Holy1: `17` **Mété**\n:Retribution: `23` **Ronflex**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Assassination: `10` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (3):**\n:Survival: `8` **Blyxee**\n:Survival: `11` **Skaf\uD83E\uDD55**\n:Survival: `24` **Harda**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `7` **Molo!Ptn!Molo**\n:Arcane: `26` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Demonology: `14` **Kriss\uD83C\uDF77**\n:Affliction: `16` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `15` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Restoration1: `4` **Una**\n:Enhancement: `13` **Lipido\uD83C\uDF0C**\n:Elemental: `22` **Wigmard**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (5) :  `9` **Chico\uD83D\uDCA6**,  `20` **Kalté**,  `21` **Ecto\uD83D\uDD6F**,  `25` **Surtur\uD83E\uDE79**,  `29` **Garanutt\uD83E\uDD65**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1069264067988033579)** | **[Comp](https://raid-helper.dev/raidplan/1069264067988033579)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230202T193000Z%2F20230202T193000Z&text=ULDUAR%2025%20MM+)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1072094229184135178",
+      "type": "Default",
+      "timestamp": "2023-02-06T09:59:42.785+00:00",
+      "timestampEdited": "2023-02-09T19:35:11.305+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1072094229184135178 \n**:U: :L: :D: :U: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: February 09, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **8** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **10** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `2` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `3` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Unholy_DPS: `8` **Berma**\n:Frost_DPS: `17` **kolossal/dkol**\n:Frost_DPS: `24` **Shunzo\uD83D\uDDE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (2):**\n:Fury: `16` **Garanutt\uD83E\uDD65**\n:Fury: `23` **Gontule⚔**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Restoration: `11` **Jousie**\n:Balance: `9` **Thalose**\n:Balance: `26` **Siné\uD83C\uDF4D**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (4):**\n:Holy1: `1` **Mété**\n:Holy1: `22` **Kalté**\n:Retribution: `5` **Jrmou**\n:Retribution: `29` **Ronflex**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `14` **Harda**\n:Survival: `21` **Blyxee**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `10` **Molo!Ptn!Molo**\n:Arcane: `28` **Ouhlala**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Affliction: `4` **Chico\uD83D\uDCA6**\n:Affliction: `6` **Konétable**\n:Demonology: `7` **Kriss\uD83C\uDF77**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `15` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Enhancement: `12` **Lipido\uD83C\uDF0C**\n:Elemental: `18` **Wigmard**\n:Restoration1: `19` **Surtur\uD83E\uDE79**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (3) : :Assassination: `13` **Meren\uD83E\uDD66**, :Restoration1: `20` **Una**, :Unholy_DPS: `27` **Gambleurssaé**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (1) :  `25` **Skaf\uD83E\uDD55**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1072094229184135178)** | **[Comp](https://raid-helper.dev/raidplan/1072094229184135178)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230209T193000Z%2F20230209T193000Z&text=Uldu%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1073747055660511252",
+      "type": "Default",
+      "timestamp": "2023-02-10T23:27:27.325+00:00",
+      "timestampEdited": "2023-02-16T19:32:57.712+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Siné\uD83C\uDF4D - ID: 1073747055660511252 \n**:U: :L: :D: :U: :empty: :I: :M: :M: :O: :R: :T: :E: :L: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: February 16, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **[25](https://softres.it/raid/bjq7ey)** / **25** (+1)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `5` **[Aeglo\uD83D\uDEE1](https://has.reserved)**\n:Protection1: `16` **[Kn\uD83D\uDE81\uD83D\uDE81](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Frost_DPS: `3` **[Shunzo\uD83D\uDDE1](https://has.reserved)**\n:Frost_DPS: `33` **[Varritus](https://has.reserved)**\n:Unholy_DPS: `32` **[Culrempli](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `10` **[Gontule⚔](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Restoration: `12` **[Mheutadine](https://has.reserved)**\n:Balance: `1` **[Siné\uD83C\uDF4D](https://has.reserved)**\n:Balance: `26` **[Thalose](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Retribution: `19` **[Ronflex](https://has.reserved)**\n:Holy1: `11` **[Mété](https://has.reserved)**\n:Holy1: `30` **[Toch²/Aziizz](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (3):**\n:Assassination: `6` **[Meren\uD83E\uDD66](https://has.reserved)**\n:Assassination: `20` **[Jrmou](https://has.reserved)**\n:Assassination: `31` **[Astamarr](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `8` **[Skaf\uD83E\uDD55](https://has.reserved)**\n:Survival: `21` **[Harda](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `28` **[Trajectoire](https://has.reserved)**\n:Arcane: `34` **[Adrianoum](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Demonology: `7` **[Kriss\uD83C\uDF77](https://has.reserved)**\n:Affliction: `2` **[Chico\uD83D\uDCA6](https://has.reserved)**\n:Affliction: `15` **[Konétable](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Discipline: `9` **[Berma](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Restoration1: `17` **[Promisdk/es/T](https://has.reserved)**\n:Enhancement: `25` **[Lipido\uD83C\uDF0C](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (1) : :Restoration: `24` **Jousie**\n:Absence: Absence (8) :  `4` **Una**,  `13` **Mushaka\uD83D\uDD6F**,  `14` **Garanutt\uD83E\uDD65**,  `18` **Kalté**,  `22` **MéPtn!Molo!\uD83E\uDDD9**,  `23` **Surtur\uD83E\uDE79**,  `27` **Ecto\uD83D\uDD6F**,  `29` **baleriann/sorenne**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1073747055660511252)** | **[Comp](https://raid-helper.dev/raidplan/1073747055660511252)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230216T193000Z%2F20230216T193000Z&text=Uldu%20Immortel)** | :softres: **[Softres.it](https://softres.it/raid/bjq7ey)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1075911700215242894",
+      "type": "Default",
+      "timestamp": "2023-02-16T22:48:58.804+00:00",
+      "timestampEdited": "2023-03-01T19:18:47.677+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1075911700215242894 \n**:U: :L: :D: :U: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: February 23, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **11** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **7** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `1` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `13` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (4):**\n:Frost_DPS: `8` **Shunzo\uD83D\uDDE1**\n:Unholy_DPS: `10` **Berma**\n:Unholy_DPS: `17` **Culrempli**\n:Unholy_DPS: `27` **Mlleq**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (2):**\n:Fury: `15` **Gontule⚔**\n:Fury: `28` **Garanutt\uD83E\uDD65**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Balance: `6` **Thalose**\n:Balance: `21` **Siné\uD83C\uDF4D**\n:Restoration: `18` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `5` **Mété**\n:Holy1: `22` **Kalté**\n:Retribution: `25` **Ronflex**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (3):**\n:Assassination: `2` **Jrmou**\n:Assassination: `16` **Meren\uD83E\uDD66**\n:Combat: `29` **Pimenterie\uD83E\uDD8A**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (1):**\n:Fire: `11` **MéPtn!Molo!\uD83E\uDDD9**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Demonology: `7` **Kriss\uD83C\uDF77**\n:Affliction: `4` **Chico\uD83D\uDCA6**\n:Affliction: `14` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Holy: `19` **Mushaka\uD83D\uDD6F**\n:Discipline: `23` **Ecto\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Enhancement: `3` **Lipido\uD83C\uDF0C**\n:Elemental: `9` **Surtur\uD83E\uDE79**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (2) : :Fire: `20` **Trajectoire**, :Arcane: `26` **Adrianoum**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (2) :  `12` **Una**,  `24` **Skaf\uD83E\uDD55**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)\n**[Web View](https://raid-helper.dev/event/1075911700215242894)** | **[Comp](https://raid-helper.dev/raidplan/1075911700215242894)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230223T193000Z%2F20230223T193000Z&text=Uldu%2025)** | :closed: since: March 01, 2023 8:17 PM",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1078675140814045324",
+      "type": "Default",
+      "timestamp": "2023-02-24T13:49:54.385+00:00",
+      "timestampEdited": "2023-03-02T19:35:04.638+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1078675140814045324 \n**:U: :L: :D: :U: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 02, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **11** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **6** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **6** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `1` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `7` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (4):**\n:Unholy_DPS: `4` **Berma**\n:Unholy_DPS: `6` **Mlleq**\n:Unholy_DPS: `26` **Culrempli**\n:Frost_DPS: `16` **Shunzo\uD83D\uDDE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (2):**\n:Fury: `23` **Gontule⚔**\n:Fury: `27` **Garanutt\uD83E\uDD65**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Balance: `10` **Thalose**\n:Balance: `28` **Siné\uD83C\uDF4D**\n:Restoration: `24` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `12` **Mété**\n:Holy1: `22` **Kalté**\n:Retribution: `25` **PutedeMété**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (3):**\n:Combat: `9` **Pimenterie\uD83E\uDD8A**\n:Assassination: `15` **Jrmou**\n:Assassination: `17` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `14` **Skaf\uD83E\uDD55**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (1):**\n:Fire: `2` **MéMisti!\uD83E\uDDD9**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Affliction: `18` **Konétable**\n:Demonology: `20` **Kriss\uD83C\uDF77**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `19` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Enhancement: `5` **Lipido\uD83C\uDF0C**\n:Restoration1: `8` **Surtur\uD83E\uDE79**\n:Restoration1: `13` **Una**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (3) :  `3` **Ecto\uD83D\uDD6F**,  `11` **Chico\uD83D\uDCA6**,  `21` **Molton**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1078675140814045324)** | **[Comp](https://raid-helper.dev/raidplan/1078675140814045324)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230302T193000Z%2F20230302T193000Z&text=Uldu%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1082632168049750066",
+      "type": "Default",
+      "timestamp": "2023-03-07T11:53:43.196+00:00",
+      "timestampEdited": "2023-03-09T19:37:28.233+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1082632168049750066 \n**:U: :L: :D: :U: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 09, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection1: `4` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Protection: `12` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (4):**\n:Frost_DPS: `17` **Shunzo\uD83D\uDDE1**\n:Unholy_DPS: `7` **Culrempli**\n:Unholy_DPS: `20` **Berma**\n:Unholy_DPS: `27` **Mlleq**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `19` **Gontule⚔**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (4):**\n:Balance: `6` **Siné\uD83C\uDF4D**\n:Balance: `8` **Thalose**\n:Balance: `29` **djewba**\n:Restoration: `18` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `9` **Mété**\n:Holy1: `32` **venee**\n:Retribution: `23` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (2):**\n:Assassination: `2` **Meren\uD83E\uDD66**\n:Assassination: `26` **kolossal/dkol**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `15` **Skaf\uD83E\uDD55**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `16` **MéMisti!\uD83E\uDDD9**\n:Arcane: `33` **Sushipériméet**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Affliction: `3` **Chico\uD83D\uDCA6**\n:Demonology: `14` **Kriss\uD83C\uDF77**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `22` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Enhancement: `5` **Lipido\uD83C\uDF0C**\n:Restoration1: `10` **Surtur\uD83E\uDE79**\n:Elemental: `31` **Fullkey/Soceb**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (8) :  `1` **Una**,  `11` **Konétable**,  `13` **Kalté**,  `21` **Ecto\uD83D\uDD6F**,  `24` **Garanutt\uD83E\uDD65**,  `25` **Molton**,  `28` **Pimenterie\uD83E\uDD8A**,  `30` **Jrmou**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1082632168049750066)** | **[Comp](https://raid-helper.dev/raidplan/1082632168049750066)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230309T193000Z%2F20230309T193000Z&text=Uldu%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1083660822993174528",
+      "type": "Default",
+      "timestamp": "2023-03-10T08:01:13.646+00:00",
+      "timestampEdited": "2023-03-16T19:37:29.664+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1083660822993174528 \n**:U: :L: :D: :U: :empty: :2: :5: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":signupsRed: **25**\n:CMcalendar: Thursday, March 16, 2023 8:30 PM - 11:30 PM",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **7** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **11** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `6` **Aeglo\uD83D\uDEE1**\n:Protection1: `27` **Toch²/Aziizz**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Frost_DPS: `1` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Frost_DPS: `16` **Shunzo\uD83D\uDDE1**\n:Unholy_DPS: `22` **Culrempli**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `21` **Gontule⚔**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Restoration: `10` **Jousie**\n:Balance: `15` **Siné\uD83C\uDF4D**\n:Balance: `18` **Thalose**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `3` **Mété**\n:Holy1: `26` **Kalté**\n:Retribution: `17` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Assassination: `5` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `20` **Skaf\uD83E\uDD55**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (4):**\n:Fire: `7` **MéMisti!\uD83E\uDDD9**\n:Fire: `30` **luffy⚡**\n:Arcane: `25` **Sushipériméet**\n:Arcane: `29` **Détracteur**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Affliction: `9` **Berma**\n:Affliction: `19` **Chico\uD83D\uDCA6**\n:Demonology: `24` **Kriss\uD83C\uDF77**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `11` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Enhancement: `2` **Lipido\uD83C\uDF0C**\n:Restoration1: `8` **Una**\n:Elemental: `14` **Surtur\uD83E\uDE79**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (5) :  `4` **Mlleq**,  `12` **Pimenterie\uD83E\uDD8A**,  `13` **Garanutt\uD83E\uDD65**,  `23` **Jrmou**,  `28` **Ecto\uD83D\uDD6F**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1083660822993174528)** | **[Comp](https://raid-helper.dev/raidplan/1083660822993174528)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230316T193000Z%2F20230316T223000Z&text=Uldu%2025)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087292132378804235",
+      "type": "Default",
+      "timestamp": "2023-03-20T08:30:45.27+00:00",
+      "timestampEdited": "2023-03-23T19:31:52.41+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1087292132378804235 \n**:U: :L: :D: :U: :empty: :2: :5: **\n\n0",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 23, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **[24](https://softres.it/raid/rvqs8t)** / **25** (+1)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `3` **[Aeglo\uD83D\uDEE1](https://has.reserved)**\n:Protection: `23` **[Zolzak](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Unholy_DPS: `7` **[Bernarla\uD83D\uDEAA](https://has.reserved)**\n:Frost_DPS: `14` **[Shunzo\uD83D\uDDE1](https://has.reserved)**\n:Frost_DPS: `21` **[Aoki](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `33` **[luffy⚡](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (4):**\n:Balance: `6` **[Thalose](https://has.reserved)**\n:Balance: `15` **[Siné\uD83C\uDF4D](https://has.reserved)**\n:Balance: `28` **[Isyth](https://has.reserved)**\n:Restoration: `17` **[Jousie](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (4):**\n:Holy1: `2` **[Kalté](https://has.reserved)**\n:Holy1: `12` **Mététrap**\n:Retribution: `13` **[Ballenar](https://has.reserved)**\n:Retribution: `32` **[Skywalkas](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (2):**\n:Assassination: `20` **[Yvrö](https://has.reserved)**\n:Assassination: `30` **[Meren\uD83E\uDD66](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `9` **[Skaf\uD83E\uDD55](https://has.reserved)**\n:Survival: `22` **[govanovich](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (1):**\n:Fire: `29` **[Dordren](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (3):**\n:Affliction: `1` **[Kn\uD83D\uDE81\uD83D\uDE81](https://has.reserved)**\n:Affliction: `31` **[Skùunk](https://has.reserved)**\n:Demonology: `16` **[Kriss\uD83C\uDF77](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `8` **[Mushaka\uD83D\uDD6F](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Enhancement: `5` **[Lipido\uD83C\uDF0C](https://has.reserved)**\n:Restoration1: `24` **[Surtur\uD83E\uDE79](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (1) : :Holy1: `26` **Mlleq**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (7) :  `4` **Jrmou**,  `10` **Chico\uD83D\uDCA6**,  `11` **Sushipériméetmoisi**,  `18` **Culrempli**,  `19` **Una**,  `25` **MéMisti!\uD83E\uDDD9**,  `27` **Gontule⚔**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1087292132378804235)** | **[Comp](https://raid-helper.dev/raidplan/1087292132378804235)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230323T193000Z%2F20230323T193000Z&text=Uldu%2025)** | :softres: **[Softres.it](https://softres.it/raid/rvqs8t)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1088601536650813661",
+      "type": "Default",
+      "timestamp": "2023-03-23T23:13:51.576+00:00",
+      "timestampEdited": "2023-03-28T12:01:50.509+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1088601536650813661 \n**:U: :L: :D: :U: :2: :4: :E: :T: :D: :E: :M: :I: **",
+          "color": "#71368A",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendar: March 30, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclock: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signups: **25** (+3)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 2** Melee **9** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **9** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **5** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (2):**\n:Protection: `9` **Aeglo\uD83D\uDEE1**\n:Protection: `17` **Zolzak**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (3):**\n:Frost_DPS: `7` **Shunzo\uD83D\uDDE1**\n:Frost_DPS: `26` **Aoki**\n:Unholy_DPS: `24` **Bernarmito**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `5` **Kn\uD83D\uDE81\uD83D\uDE81**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (3):**\n:Balance: `8` **Thalose**\n:Balance: `19` **Siné\uD83C\uDF4D**\n:Restoration: `18` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (3):**\n:Holy1: `1` **Mététrap**\n:Retribution: `2` **Ballenar**\n:Retribution: `27` **Skywalkas**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (2):**\n:Assassination: `13` **Meren\uD83E\uDD66**\n:Assassination: `22` **Yvrö**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (2):**\n:Survival: `3` **Skaf\uD83E\uDD55**\n:Survival: `20` **govanovich**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (2):**\n:Fire: `10` **MéMisti!\uD83E\uDDD9**\n:Arcane: `21` **Khomat**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Affliction: `12` **Chico\uD83D\uDCA6**\n:Demonology: `15` **Kriss\uD83C\uDF77**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Shadow: `11` **luffy⚡**\n:Holy: `16` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (3):**\n:Enhancement: `6` **Lipido\uD83C\uDF0C**\n:Restoration1: `4` **Una**\n:Restoration1: `28` **Surtur\uD83E\uDE79**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (2) : :Elemental: `14` **Flayx**, :Fury: `29` **Culrempli**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (1) : :Restoration: `23` **Isyth**\n:Absence: Absence (1) :  `25` **Kalté**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1088601536650813661)** | **[Comp](https://raid-helper.dev/raidplan/1088601536650813661)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230330T183000Z%2F20230330T183000Z&text=uldu24etdemi)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089985305211306086",
+      "type": "Default",
+      "timestamp": "2023-03-27T18:52:27.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Raider",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1090127523351900160",
+      "type": "Default",
+      "timestamp": "2023-03-28T04:17:35.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Aoki @Bujankas  Hesitez pas a vous tag si vous etes dispo\n@Isyth Si tu sais si t'es dispo ou non hesite pas a te mettre a jour que je lock la compo dans la journée \uD83D\uDE42",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "240170251612848128",
+          "name": "Bujankas",
+          "discriminator": "7073",
+          "nickname": "Skywalkas",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/240170251612848128/c85b2b1d7bfdb5d9a4ae13710da015e0.png?size=512"
+        },
+        {
+          "id": "335138515421757442",
+          "name": "Isyth",
+          "discriminator": "0167",
+          "nickname": "Isyth",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/335138515421757442/c8d3e4a9bcbdd4a90551fa3327b4c3ec.png?size=512"
+        },
+        {
+          "id": "979737444201156619",
+          "name": "Aoki",
+          "discriminator": "3435",
+          "nickname": "Aoki",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ]
+    },
+    {
+      "id": "1090213925582290997",
+      "type": "Default",
+      "timestamp": "2023-03-28T10:00:55.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Surtur @Culrempli @Touchéretpal @Shûsui",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "233703815956660225",
+          "name": "Shûsui",
+          "discriminator": "3224",
+          "nickname": "Sushi périmé et moisi",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/233703815956660225/c6e1f8bf6b206157aed00c7247c7d533.png?size=512"
+        },
+        {
+          "id": "476463159906140171",
+          "name": "Surtur",
+          "discriminator": "0243",
+          "nickname": "Surtur \uD83E\uDE79",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476463159906140171/c0217e0c6dfaa4c66a5d795695519ea5.png?size=512"
+        },
+        {
+          "id": "422537235980615681",
+          "name": "Culrempli",
+          "discriminator": "7491",
+          "nickname": "Culrempli",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/422537235980615681/3cad8ab29fe979648850825c4671e7fc.png?size=512"
+        },
+        {
+          "id": "718947825202757662",
+          "name": "Touchéretpal",
+          "discriminator": "7751",
+          "nickname": "Mlleq",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/718947825202757662/95ba08a623adc1e0ebc88ebc7e680fe1.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1090246037999984740",
+      "type": "Default",
+      "timestamp": "2023-03-28T12:08:31.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Aeglo @Sorlag @Berma @Shûnzø @Aoki @Lipido @Yvrö @Merenthor @balnar @Aigrito @Thalose @Aenas @Khomat @Mistikø @Bujankas @Luffy @Krissprols @Chicoscabana @Stoude @Skaf @Unalome @Jousie @Météo @Surtur @Mushaka",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "uldu24etdemi",
+          "url": "https://discord.com/channels/636104098902441995/1051903826828984420/1088601536650813661",
+          "timestamp": null,
+          "description": "",
+          "color": "#71368A",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": "**Group 1:**\n:emote: Aeglo\uD83D\uDEE1\n:emote: Zolzak\n:emote: Bernarmito\n:emote: Shunzo\uD83D\uDDE1\n:emote: Aoki",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "**Group 2:**\n:emote: Lipido\uD83C\uDF0C\n:emote: Yvrö\n:emote: Meren\uD83E\uDD66\n:emote: Ballenar\n:emote: Kn\uD83D\uDE81\uD83D\uDE81",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "**Group 3:**\n:emote: Thalose\n:emote: Siné\uD83C\uDF4D\n:emote: Khomat\n:emote: MéMisti!\uD83E\uDDD9\n:emote: Skywalkas",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "**Group 4:**\n:emote: luffy⚡\n:emote: Kriss\uD83C\uDF77\n:emote: Chico\uD83D\uDCA6\n:emote: govanovich\n:emote: Skaf\uD83E\uDD55",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "**Group 5:**\n:emote: Una\n:emote: Jousie\n:emote: Mététrap\n:emote: Surtur\uD83E\uDE79\n:emote: Mushaka\uD83D\uDD6F",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "Sent by @Aigrito | [Composition Tool](https://raid-helper.dev/raidplan/1088601536650813661)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "74262079527194624",
+          "name": "Sorlag",
+          "discriminator": "5013",
+          "nickname": "Zolzak",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/74262079527194624/e2a74c9d6ad3bf59fdae7eafe51120dc.png?size=512"
+        },
+        {
+          "id": "185300220878258176",
+          "name": "Météo",
+          "discriminator": "5769",
+          "nickname": "Mététrap",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185300220878258176/4a026db3749ff0c435fbd5ea4949eab9.png?size=512"
+        },
+        {
+          "id": "219570386101207041",
+          "name": "Skaf",
+          "discriminator": "7488",
+          "nickname": "Skaf\uD83E\uDD55",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570386101207041/ed93a9a053f6a5cfe5b2c317bd6fd18a.png?size=512"
+        },
+        {
+          "id": "187529994824581121",
+          "name": "Yvrö",
+          "discriminator": "3396",
+          "nickname": "Yvrö",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/187529994824581121/1f59e86d60f067066129a500e5682c84.png?size=512"
+        },
+        {
+          "id": "207992794327810048",
+          "name": "Krissprols",
+          "discriminator": "1918",
+          "nickname": "Kriss \uD83C\uDF77",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        },
+        {
+          "id": "219570458180321282",
+          "name": "Chicoscabana",
+          "discriminator": "9619",
+          "nickname": "Chico\uD83D\uDCA6",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+        },
+        {
+          "id": "220310161464492036",
+          "name": "Mistikø",
+          "discriminator": "6718",
+          "nickname": "Mé Misti!\uD83E\uDDD9",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+        },
+        {
+          "id": "221060112868048898",
+          "name": "Khomat",
+          "discriminator": "2537",
+          "nickname": "Khomat",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/221060112868048898/95ae5e752bc0675cdd82b62228fffda1.png?size=512"
+        },
+        {
+          "id": "232842860016304129",
+          "name": "Merenthor",
+          "discriminator": "0418",
+          "nickname": "Meren\uD83E\uDD66",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/232842860016304129/353c43677e25c292312e85e6d6436a2a.png?size=512"
+        },
+        {
+          "id": "240170251612848128",
+          "name": "Bujankas",
+          "discriminator": "7073",
+          "nickname": "Skywalkas",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/240170251612848128/c85b2b1d7bfdb5d9a4ae13710da015e0.png?size=512"
+        },
+        {
+          "id": "243059837544562698",
+          "name": "Thalose",
+          "discriminator": "6536",
+          "nickname": "Thalose",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+        },
+        {
+          "id": "306497756141322249",
+          "name": "Aenas",
+          "discriminator": "6010",
+          "nickname": "Siné\uD83C\uDF4D",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+        },
+        {
+          "id": "243051842777513996",
+          "name": "Aeglo",
+          "discriminator": "5516",
+          "nickname": "Aeglo \uD83D\uDEE1",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/243051842777513996/cd06f312612cb8c19fa8be32491f17f1.png?size=512"
+        },
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        },
+        {
+          "id": "382319540346028034",
+          "name": "Aigrito",
+          "discriminator": "5597",
+          "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+        },
+        {
+          "id": "411923859051380746",
+          "name": "Unalome",
+          "discriminator": "6070",
+          "nickname": "Una",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/411923859051380746/ec5f9eb5081283cb9e725ef6b02bf23c.png?size=512"
+        },
+        {
+          "id": "434823378327699466",
+          "name": "Shûnzø",
+          "discriminator": "8077",
+          "nickname": "Shunzo \uD83D\uDDE1",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/434823378327699466/118b2cde5eb6915748e4bb500d04b90a.png?size=512"
+        },
+        {
+          "id": "476463159906140171",
+          "name": "Surtur",
+          "discriminator": "0243",
+          "nickname": "Surtur \uD83E\uDE79",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476463159906140171/c0217e0c6dfaa4c66a5d795695519ea5.png?size=512"
+        },
+        {
+          "id": "979737444201156619",
+          "name": "Aoki",
+          "discriminator": "3435",
+          "nickname": "Aoki",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        },
+        {
+          "id": "624720487670480896",
+          "name": "Mushaka",
+          "discriminator": "7160",
+          "nickname": "Mushaka \uD83D\uDD6F",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+        },
+        {
+          "id": "613364921035653120",
+          "name": "Stoude",
+          "discriminator": "8661",
+          "nickname": "govanovich",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/613364921035653120/e75c980d9d73afa2a264c4d3ac3ea0cf.png?size=512"
+        },
+        {
+          "id": "705524070304710728",
+          "name": "Berma",
+          "discriminator": "7406",
+          "nickname": "Bernarmito",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+        },
+        {
+          "id": "709528785577312357",
+          "name": "Jousie",
+          "discriminator": "0579",
+          "nickname": "Jousie",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/709528785577312357/0d81865e347f2e36db91ffe3b572dbd9.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 17
+}

@@ -1,0 +1,1841 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "662671173301305396",
+    "type": "GuildTextChat",
+    "categoryId": "662364049476026399",
+    "category": "[PVE] Guides de classe",
+    "name": "chaman-amelio",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "662681628883288122",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:40:12.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--------------------------------------------------------\nSpécialisation :\nAMELIO / RESTO",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "662681669853249546",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:40:22.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "662681669223972874",
+          "url": "https://cdn.discordapp.com/attachments/662671173301305396/662681669223972874/chaman_1.PNG",
+          "fileName": "chaman_1.PNG",
+          "fileSizeBytes": 731868
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "662681728904855583",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:40:36.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nous ne prenons pas Frappe Tempête car celui-ci met un débuff sur le boss et pour le moment nous ne pouvons pas l’accepter. A la place nous irons chercher Rapidité de la nature qui sera utile pour mettre un greater sur un tank ou un horion/chaine d’eclair supplémentaire.\nCette spé sera conseillée pour tous ceux qui n’ont pas le cap touché de 9% (ou 6% en Orc avec une Hache) (grâce aux 3% de touché de Soutien de la nature)\n\n++++++++++++++++++++++++++++++++++++\nAMELIO / ELEM",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "662681761926348831",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:40:44.075+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "662681761926348830",
+          "url": "https://cdn.discordapp.com/attachments/662671173301305396/662681761926348830/chaman_2.PNG",
+          "fileName": "chaman_2.PNG",
+          "fileSizeBytes": 738066
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "662681877269708843",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:41:11.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cette spé sera utilisée par toutes les classes ayant 9% touché (ou 6% en Orc avec une Hache). Elle permettra de faire de plus gros dégats grâce à Dévastation Elementaire.\nComme avec l’autre spé, Nous ne prenons pas Frappe Tempête car celui-ci met un débuff sur le boss et pour le moment nous ne pouvons pas l’accepter. A la place nous irons chercher Fureur Elementaire, pour faire de plus gros crit sur nos horions.\n\n----------------------------------------------------------------------\nRotation :\n1.    Horion de Givre Rank Max\n2.    Horion de Terre Rank Min quand plus de mana pour faire proc « Elemental Devastation »\n\nSi vous êtes le seul chaman de votre groupe, il est conseillé de faire du Totem Twisting :\n1.    Commencer le fight avec Totem WF\n2.    Switch directement avec Totem Agi\n3.    Après de 10sec switch Totem WF\n4.    Puis reprendre à la phase 2.\n\nC’est très manavore, mais optimise le DPS de tous votre groupe. Si vous ne le faite pas mettez un Totem WF.\n\n---------------------------------------------------------------------\nVitesse de l’arme :\nEn Chaman Amélio, la vitesse d’attaque importe peu vu que nous n’avons pas de coup jaune. Mais si vous devez choisir entre deux armes avec le même DPS, privilégiez l’arme la plus rapide.\n\n----------------------------------------------------------------------",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "662681904952377364",
+      "type": "Default",
+      "timestamp": "2020-01-03T15:41:18.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stats Priority :\n\n1.    Weapon Skill (Les premier 5 points permettent de réduire le cap touché à 6%)\n2.    Critical Strike\n3.    Hit Chance (jusqu’à votre cap touché 9%)\n4.    Strength\n5.    Agility\n6.    Mp5 (stronger the longer a fight goes)\n7.    Intellect\n8.    Stamina\n\n------------------------------------------------------------------------\nConsommable de raid :\nElixir de la mangouste (25agi + 2% crit) x2 : 3po OBLIGATOIRE \nPotion de mana majeur (2po50) x8 : OBLIGATOIRE\nPotion de protection contre le feu supérieur (3.5po) x1 : OBLIGATOIRE\n\nElixir des arcanes supérieur (x2) : Recommandé\nCalmar grillé (10 agi) x8 : (25pa) : Recommandé\nJuju de puissance (40pa) x8: 1po50 Recommandé\nRafale de Juju (3% vitesse d’attaque) x8 : Recommandé\nEau de feu des Tombe-hiver (x6) : Recommandé\nRune démoniaque x8 : 2po50 Recommandé\nFlacon de sagesse distillée x1 : Recommandé \nFree Action Potion",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "745035808133742613",
+      "type": "Default",
+      "timestamp": "2020-08-17T21:46:18.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://barrens.chat/viewtopic.php?f=16&t=1150",
+      "author": {
+        "id": "243051842777513996",
+        "name": "Aeglo",
+        "discriminator": "5516",
+        "nickname": "Aeglo \uD83D\uDEE1",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243051842777513996/cd06f312612cb8c19fa8be32491f17f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "745174516149387304",
+      "type": "Default",
+      "timestamp": "2020-08-18T06:57:29.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shaman tank OPPPPPPPPPPPPPPPPPPPPPPPPP !",
+      "author": {
+        "id": "140867648316506113",
+        "name": "Narcissae",
+        "discriminator": "8577",
+        "nickname": "Movezfoissaé",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140867648316506113/103aea295a3387fccad61056bab45a57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "753690046460330026",
+      "type": "Default",
+      "timestamp": "2020-09-10T18:55:09.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://wowclassic.judgehype.com/news/le-bug-du-talent-totems-d-armes-ameliores-du-chaman-refait-parler-de-lui-163633/",
+      "author": {
+        "id": "620942584726028298",
+        "name": "Jrmou",
+        "discriminator": "4653",
+        "nickname": "Jrmou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Le bug du talent Totems d'armes améliorés du Chaman refait parler d...",
+          "url": "https://wowclassic.judgehype.com/news/le-bug-du-talent-totems-d-armes-ameliores-du-chaman-refait-parler-de-lui-163633/",
+          "timestamp": null,
+          "description": "Dans son arbre Améliorations, le Chaman dispose du talent Totems d'armes améliorés, lequel augmente le bonus de puissance d'attaque en mêlée de votre totem Furie-des-vents ainsi que les dégâts de votre totem Langue de feu. Le hic, et cela fait m...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TAfU9P7KEyt2DH-NgDAAMbPjASf-w_nE67Pg7IlQahc/https/main.judgehype.com/images/news-vignettes/2020/384733-1599220486.jpg",
+            "width": 250,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "753690071403724991",
+      "type": "Default",
+      "timestamp": "2020-09-10T18:55:15.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Lipido",
+      "author": {
+        "id": "620942584726028298",
+        "name": "Jrmou",
+        "discriminator": "4653",
+        "nickname": "Jrmou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "758128863149686795",
+      "type": "Default",
+      "timestamp": "2020-09-23T00:53:26.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si besoin j'ai \"Totem de la terre RANG V\" sur Secøuriste donc dites le moi!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758182596269047839",
+      "type": "Default",
+      "timestamp": "2020-09-23T04:26:57.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "arf je l'ai acheté 100 po hier, mais merci \uD83D\uDE42",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758221624662818847",
+      "type": "Default",
+      "timestamp": "2020-09-23T07:02:02.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pareil x)",
+      "author": {
+        "id": "140867648316506113",
+        "name": "Narcissae",
+        "discriminator": "8577",
+        "nickname": "Movezfoissaé",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140867648316506113/103aea295a3387fccad61056bab45a57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758253088086687744",
+      "type": "Default",
+      "timestamp": "2020-09-23T09:07:03.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On reconnaît le chaman amélio de qualité qui chouchoute ses cacs !",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770656175842132048",
+      "type": "Default",
+      "timestamp": "2020-10-27T14:32:30.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Lipido @Staff  \nJ'aurais une question pour Lipido.\nL'anneau de fureur qiraji, tu vas l'utiliser ? Tu as deja l'anneau de frappe rapide qui est mieux pour toi. Pourquoi avoir mis besoin ?",
+      "author": {
+        "id": "403624828235546634",
+        "name": "AWK",
+        "discriminator": "0680",
+        "nickname": "AWK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403624828235546634/4f147caf598e504bfd6b29abb515aa48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "770664372614725663",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:05:04.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "c'est quel autre anneau que tu mettrais àa la place du fureur qiraji pour lui",
+      "author": {
+        "id": "228636349362601995",
+        "name": "Karader",
+        "discriminator": "7485",
+        "nickname": "Karader",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228636349362601995/e9cf60f3af4fb865511bd112aa62942a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770664668041707590",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:06:15.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Il a l'anneau de nefa avec 1% toucher et l'anneau de frappe rapide qui est mieux pour lui",
+      "author": {
+        "id": "403624828235546634",
+        "name": "AWK",
+        "discriminator": "0680",
+        "nickname": "AWK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403624828235546634/4f147caf598e504bfd6b29abb515aa48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770664866671231077",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:07:02.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uniquement si il a besoin de toucher je sais pas quel stuff il a actuellement",
+      "author": {
+        "id": "228636349362601995",
+        "name": "Karader",
+        "discriminator": "7485",
+        "nickname": "Karader",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228636349362601995/e9cf60f3af4fb865511bd112aa62942a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770665058598256651",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:07:48.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ouais sauf si il arrive a remplacer l'anneau de nefa",
+      "author": {
+        "id": "403624828235546634",
+        "name": "AWK",
+        "discriminator": "0680",
+        "nickname": "AWK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403624828235546634/4f147caf598e504bfd6b29abb515aa48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770665133595820052",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:08:06.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Je voulais juste savoir si s'est bien ca",
+      "author": {
+        "id": "403624828235546634",
+        "name": "AWK",
+        "discriminator": "0680",
+        "nickname": "AWK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403624828235546634/4f147caf598e504bfd6b29abb515aa48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770665760825147412",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:10:35.658+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Je suppose qu'il a son stuff final en vue",
+      "author": {
+        "id": "620942584726028298",
+        "name": "Jrmou",
+        "discriminator": "4653",
+        "nickname": "Jrmou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770670755922444328",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:30:26.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok ok",
+      "author": {
+        "id": "403624828235546634",
+        "name": "AWK",
+        "discriminator": "0680",
+        "nickname": "AWK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403624828235546634/4f147caf598e504bfd6b29abb515aa48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770675407376351262",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:48:55.575+00:00",
+      "timestampEdited": "2020-10-27T15:51:48.783+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alors en fait j'étais a 7% de toucher donc c'était pour remplacer mon anneau de néfa pour avoir plus de crit mais tu te serais manifester hier soir au lieu de maintenant,je te l'aurais donner sans prob, je m'en foutais un peu",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770675571659243592",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:49:34.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "apres j'aime pas trop ton pourquoi avoir mis besoin je suis pas un lootvore",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770675733353725983",
+      "type": "Default",
+      "timestamp": "2020-10-27T15:50:13.294+00:00",
+      "timestampEdited": "2020-10-27T15:52:13.731+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si j'en ai pas besoin en fait je met cupi",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770690125683621905",
+      "type": "Default",
+      "timestamp": "2020-10-27T16:47:24.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "et l'anneau de frappe rapide n'est pas mieux, en fait il est pareil niveau dps car ils font 40 pa chacun, il a juste moins d'endu",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770702900112130129",
+      "type": "Default",
+      "timestamp": "2020-10-27T17:38:10.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lipido loot jamais rien faut lui laisser son anneau s'il need \uD83D\uDE42",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770702993137991732",
+      "type": "Default",
+      "timestamp": "2020-10-27T17:38:32.533+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "et cet anneau est bis pour dps cac tout court",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804024884580974592",
+      "type": "Default",
+      "timestamp": "2021-01-27T16:27:50.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Salut Lipi ca vas ?",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804027929394282496",
+      "type": "Default",
+      "timestamp": "2021-01-27T16:39:56.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On se sent seul ?",
+      "author": {
+        "id": "620942584726028298",
+        "name": "Jrmou",
+        "discriminator": "4653",
+        "nickname": "Jrmou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804039909810634782",
+      "type": "Default",
+      "timestamp": "2021-01-27T17:27:32.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE42",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9C",
+            "code": "purple_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "710741141737177088",
+            "name": "ClassShaman",
+            "code": "ClassShaman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/710741141737177088.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "811131523495493633",
+      "type": "Default",
+      "timestamp": "2021-02-16T07:07:05.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Merci pour l'arme de Recousu !!! Je vous aime",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "710740359080050729",
+            "name": "ClassWarrior",
+            "code": "ClassWarrior",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/710740359080050729.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD1E",
+            "code": "underage",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "811131633876205578",
+      "type": "Default",
+      "timestamp": "2021-02-16T07:07:31.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDE93",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811138698677846016",
+      "type": "Default",
+      "timestamp": "2021-02-16T07:35:35.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "zog zog",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811205661828317194",
+      "type": "Default",
+      "timestamp": "2021-02-16T12:01:41.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/not-jealous-at-all-tantrum-kid-gif-11588213",
+      "author": {
+        "id": "568873105095786520",
+        "name": "Bubba",
+        "discriminator": "6126",
+        "nickname": "Herluff",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568873105095786520/8a0740245a626138f17cb25cd38b09d9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD2D",
+            "code": "face_with_hand_over_mouth",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f92d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "812198531196518440",
+      "type": "Default",
+      "timestamp": "2021-02-19T05:46:59.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J’avoue pk il est en archive ce chan il est encore la lipido je crois",
+      "author": {
+        "id": "549348863438487552",
+        "name": "Shokshok",
+        "discriminator": "3385",
+        "nickname": "Shokshok",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549348863438487552/78c54832e223c181676620a96dd898cd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812203377202692127",
+      "type": "Default",
+      "timestamp": "2021-02-19T06:06:15.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Il commençait à se parler à lui même lipi !",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812231247010070528",
+      "type": "Default",
+      "timestamp": "2021-02-19T07:56:59.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bah parce qu'il est heal maintenant",
+      "author": {
+        "id": "140867648316506113",
+        "name": "Narcissae",
+        "discriminator": "8577",
+        "nickname": "Movezfoissaé",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140867648316506113/103aea295a3387fccad61056bab45a57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812252856320786452",
+      "type": "Default",
+      "timestamp": "2021-02-19T09:22:51.875+00:00",
+      "timestampEdited": "2021-02-19T09:23:38.227+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey ! je suis pas heal Narci, je dépanne juste et sur saphiron on m'avait deja prévenu qu'il faudrait tj que je vienne en heal car il en faut un max",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "845524822859710505",
+      "type": "Default",
+      "timestamp": "2021-05-22T04:53:46.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Putin j'adore cette classe !",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "845575818985209856",
+      "type": "Default",
+      "timestamp": "2021-05-22T08:16:25.285+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tu pourras respe heal pour bc du coup ?",
+      "author": {
+        "id": "228636349362601995",
+        "name": "Karader",
+        "discriminator": "7485",
+        "nickname": "Karader",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228636349362601995/e9cf60f3af4fb865511bd112aa62942a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "845578372629135380",
+      "type": "Default",
+      "timestamp": "2021-05-22T08:26:34.121+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE42",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846642268290285591",
+      "type": "Reply",
+      "timestamp": "2021-05-25T06:54:06.613+00:00",
+      "timestampEdited": "2021-05-25T06:54:31.691+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Lipido \uD83E\uDD23\uD83E\uDD23",
+      "author": {
+        "id": "648956120022384651",
+        "name": "MAD",
+        "discriminator": "6472",
+        "nickname": "Mad",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/648956120022384651/3eb0dfb0ee1d6e732fc4bf57418acb32.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        },
+        {
+          "id": "228636349362601995",
+          "name": "Karader",
+          "discriminator": "7485",
+          "nickname": "Karader",
+          "color": "#2ECC71",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/228636349362601995/e9cf60f3af4fb865511bd112aa62942a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "845575818985209856",
+        "channelId": "662671173301305396",
+        "guildId": null
+      }
+    },
+    {
+      "id": "846642536000913408",
+      "type": "Default",
+      "timestamp": "2021-05-25T06:55:10.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "La resurrection de ce channel, je le sors des archives \uD83D\uDE09",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846642726116130836",
+      "type": "Default",
+      "timestamp": "2021-05-25T06:55:55.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Go mettre le chan War dps aux archives du coup RIP \uD83D\uDE02",
+      "author": {
+        "id": "410859773639262208",
+        "name": "akoukou",
+        "discriminator": "2626",
+        "nickname": "akoukou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/410859773639262208/052bb047c1b2fba214bd801ee83fab51.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846689836924796928",
+      "type": "Default",
+      "timestamp": "2021-05-25T10:03:07.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD72 GG la hache hier lipi, ya encore une semaine ça partait sur les wars obligé!",
+      "author": {
+        "id": "705524070304710728",
+        "name": "Berma",
+        "discriminator": "7406",
+        "nickname": "Bernarmito",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846690005325578250",
+      "type": "Default",
+      "timestamp": "2021-05-25T10:03:48.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Berma qui pleure du sang",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846692300318572544",
+      "type": "Default",
+      "timestamp": "2021-05-25T10:12:55.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heureusement que je l'ai déjà dyzon x) et les jambieres 4HM double bis Lipi gg",
+      "author": {
+        "id": "705524070304710728",
+        "name": "Berma",
+        "discriminator": "7406",
+        "nickname": "Bernarmito",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848130759784136734",
+      "type": "Default",
+      "timestamp": "2021-05-29T09:28:50.64+00:00",
+      "timestampEdited": "2021-05-29T09:28:55.263+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Lipido C'est quoi ta spé mec? Tu peux m'envoyer l'arbre de talents? ❤️",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "848163512152227860",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:38:59.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oui",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848165524307574804",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:46:59.148+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tbc.wowhead.com/talent-calc/shaman/-500520210502133531151-05001",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848165681756504124",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:47:36.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jai pas mis les points restants en élémental car j'avais pas envie de respé 2 semaines apres pour tbc",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848165819158626315",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:48:09.446+00:00",
+      "timestampEdited": "2021-05-29T11:48:23.297+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "car niveau 70 je prends les points en totems amélioré , la range totem et les 3 % de hit",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848168749982548028",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:59:48.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Merci!",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848168757850800149",
+      "type": "Default",
+      "timestamp": "2021-05-29T11:59:50.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J vais essayer ca",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "866763621518278666",
+      "type": "Default",
+      "timestamp": "2021-07-19T19:29:11.059+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Putin apres 25 runs j'ai enfin eut le totem de Zoglence !!! un gros merci a tous ce qui m'ont aidé et spécialement au poto Aeglo et thalose qui m'ont jamais laché",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "866785439931564032",
+      "type": "Default",
+      "timestamp": "2021-07-19T20:55:52.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG bro !",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "866785473254391829",
+      "type": "Default",
+      "timestamp": "2021-07-19T20:56:00.919+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Go tout péter maintenant \uD83D\uDE42",
+      "author": {
+        "id": "374139991317676042",
+        "name": "Sylence",
+        "discriminator": "8980",
+        "nickname": "Sylence",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374139991317676042/da3a9b7e2035912a20fa2167f51e2a7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "866799061443936356",
+      "type": "Default",
+      "timestamp": "2021-07-19T21:50:00.596+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG tu as plus à refaire tombes mana, libéré!",
+      "author": {
+        "id": "705524070304710728",
+        "name": "Berma",
+        "discriminator": "7406",
+        "nickname": "Bernarmito",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934833385568882699",
+      "type": "Default",
+      "timestamp": "2022-01-23T15:34:07.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pipooooooooooooo",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938502006044229663",
+      "type": "Default",
+      "timestamp": "2022-02-02T18:31:54.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lipiiiii",
+      "author": {
+        "id": "616718430606852195",
+        "name": "Pipoodoo",
+        "discriminator": "3146",
+        "nickname": "Pipoodoo",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616718430606852195/33da55442b511e6cd25cfbcd2ac74b12.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938502106409750558",
+      "type": "Default",
+      "timestamp": "2022-02-02T18:32:18.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On a un chan \uD83D\uDE2F",
+      "author": {
+        "id": "616718430606852195",
+        "name": "Pipoodoo",
+        "discriminator": "3146",
+        "nickname": "Pipoodoo",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616718430606852195/33da55442b511e6cd25cfbcd2ac74b12.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938836675071713374",
+      "type": "Default",
+      "timestamp": "2022-02-03T16:41:46.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol gg a vous",
+      "author": {
+        "id": "233703815956660225",
+        "name": "Shûsui",
+        "discriminator": "3224",
+        "nickname": "Sushi périmé et moisi",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/233703815956660225/c6e1f8bf6b206157aed00c7247c7d533.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938837640147521536",
+      "type": "Default",
+      "timestamp": "2022-02-03T16:45:36.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Très pWuissante spé l’amélio",
+      "author": {
+        "id": "410859773639262208",
+        "name": "akoukou",
+        "discriminator": "2626",
+        "nickname": "akoukou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/410859773639262208/052bb047c1b2fba214bd801ee83fab51.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980076751126421524",
+      "type": "Default",
+      "timestamp": "2022-05-28T11:55:06.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J'ai respé pour la porté des totems @Jrmou",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "620942584726028298",
+          "name": "Jrmou",
+          "discriminator": "4653",
+          "nickname": "Jrmou",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "980083102930055229",
+      "type": "Reply",
+      "timestamp": "2022-05-28T12:20:20.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Top",
+      "author": {
+        "id": "620942584726028298",
+        "name": "Jrmou",
+        "discriminator": "4653",
+        "nickname": "Jrmou",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "360379755003904002",
+          "name": "Lipido",
+          "discriminator": "2193",
+          "nickname": "Lipido \uD83C\uDF0C",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "980076751126421524",
+        "channelId": "662671173301305396",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1021044061001502751",
+      "type": "Default",
+      "timestamp": "2022-09-18T13:04:34.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.reddit.com/r/classicwow/comments/xfls0c/alliance_trying_to_get_into_thunder_bluff_like/?utm_medium=android_app&utm_source=share",
+      "author": {
+        "id": "667024765734617140",
+        "name": "Kijam",
+        "discriminator": "4361",
+        "nickname": "Profondes | Kijam",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1021498729519386696",
+      "type": "Default",
+      "timestamp": "2022-09-19T19:11:15.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haha envolez vous !",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 68
+}

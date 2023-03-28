@@ -1,0 +1,1508 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "1017693389346586624",
+    "type": "GuildTextChat",
+    "categoryId": "710108505327271966",
+    "category": "Staff",
+    "name": "staff-preview-annonce",
+    "topic": "Ce chan sert à faire valider les futures annonces par les membres du staff avant qu'elles soient rendues publiques"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1023685321801613332",
+      "type": "Default",
+      "timestamp": "2022-09-25T19:59:59.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/penis-plush-sex-happy-girl-funny-gif-21401963",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/penis-plush-sex-happy-girl-funny-gif-21401963",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mzpShbWgSflPLhVvP6uEt3D7-ZG3QNcGBhEJOmN2kG0/https/media.tenor.com/1qLfIVl5lTMAAAAD/penis-plush.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023696565388464289",
+      "type": "Default",
+      "timestamp": "2022-09-25T20:44:40.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changement d'horaire\nChangement de jour -> sondage\nDétails des loots\nLoots qui qui seront en loot council / Loots au ratio",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023704004540239995",
+      "type": "Default",
+      "timestamp": "2022-09-25T21:14:14.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Présence Jr et Misti toujours dans le staff",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023704175395217448",
+      "type": "Default",
+      "timestamp": "2022-09-25T21:14:54.918+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Malus sur les retards, sur le slacking, sur les consos sur le ratio ou sur le council",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023704204667256832",
+      "type": "Default",
+      "timestamp": "2022-09-25T21:15:01.897+00:00",
+      "timestampEdited": "2022-09-25T21:16:19.558+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si non prévenu",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023715921501638696",
+      "type": "Default",
+      "timestamp": "2022-09-25T22:01:35.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rappeler l'importance d'une double spé heal <-> dps / tank <-> dps",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026136360953839716",
+      "type": "Default",
+      "timestamp": "2022-10-02T14:19:33.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Annonce sondage nouveau jour de raid :\n@here Qui dit nouvelle année dit peut-être nouveaux horaires. Pour cette raison nous allons effectuer un sondage concernant les préférences de chacun sur les soirs de raid. Les vendredi et samedi soirs sont volontairement omis car ce sont des soirs privilégies pour l'IRL \uD83D\uDE09\nMerci de voter pour tous les soirs où vous êtes disponibles (ou majoritairement disponible)",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C\uD83C\uDFFF",
+            "code": "ok_hand_tone5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c-1f3ff.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1026136369560555520",
+      "type": "Default",
+      "timestamp": "2022-10-02T14:19:35.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026136524032585949",
+      "type": "Default",
+      "timestamp": "2022-10-02T14:20:12.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J'attends la validation de 3-4 offs avant de publier (et je vais écrire le compte rendu de notre réunion de la semaine dernière dès que j'ai un poil plus de temps \uD83D\uDE09",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026155636867747860",
+      "type": "Default",
+      "timestamp": "2022-10-02T15:36:08.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "c'est ok pour moi",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026166887895289946",
+      "type": "Default",
+      "timestamp": "2022-10-02T16:20:51.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok pour moi aussi ! T as besoin d aide pr écrire le compte rendu ? C'est pas trop mon fort mais je peux tenter de faire la partie sur les loots",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026167083966406737",
+      "type": "Default",
+      "timestamp": "2022-10-02T16:21:38.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jvais l'écrire pépère, vous me direz si la formulation est à revoir ou s'il manque des trucs",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026187914108997643",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:44:24.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Allright",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028775569762029628",
+      "type": "Default",
+      "timestamp": "2022-10-09T21:06:49.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jessaye de moccuper de lannonce loot council demain en rentrant du taf avant le raid",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028777130324135998",
+      "type": "Default",
+      "timestamp": "2022-10-09T21:13:01.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Désolé j'ai complètement zappé, je te laisse écrire la partie sur le loot council et j'écris le reste en rentrant du taf demain",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028780569657614346",
+      "type": "Default",
+      "timestamp": "2022-10-09T21:26:41.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ça marche",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028924437464088617",
+      "type": "Default",
+      "timestamp": "2022-10-10T06:58:22.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bonjour a tous ! L'attribution des loots pendant va un petit peu changer. Le saint tableur fera toujours son office mais  nous allons instaurer un système de loot council. \n\nUne liste d'item défini ne sera pas soumis à vos points mais uniquement a la décision des officiers.\n\nCette décision sera prise en fonction de plusieurs critères : investissement dans la guilde, entraide, consos utilisé en raid, flexibilité.\n\nVoici la liste des items qui seront pour l'instant soumis au council. ( cette liste peut être amené à être modifié vous en serez averti évidemment) \n\nArmes : - Torche du saint feu (KT 25) \n               - La marée décisive (KT 25)\n               -  Le dernier sourire (KT 25)\n               -  Traître a l'humanité (KT 25)\n               -  Voix de la raison (KT 25)\n               -  Grand bâtonduNexus(malygos10)\n\nOff hand : - Accursed spine (Noth25)\n                   - Surplus limb (Patchwork25)\n                   - Matriarch's Spawn (Maexxna25)\n\nCou : - Récompense de quête Malygos \n\nTrinket : - Représentation de l'âme des dragons (Sartha25)\n                - Âme des morts (Naxx25)\n                - Le glas sinistre (Naxx25)\n\nAnneau : - Chevalière de la souffrance manifeste (KT25)\n\nSi vous avez la moindre question n'hésitez pas à venir nous demander !",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028924581525856296",
+      "type": "Default",
+      "timestamp": "2022-10-10T06:58:56.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J'ai fais ça avec une note de téléphone le temps du taxi j'essayerais de mettre une meilleure mise en forme ce soir en rentrant",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028924786270806036",
+      "type": "Default",
+      "timestamp": "2022-10-10T06:59:45.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Je suis pas habitué à faire ce genre de trucs donc hésitez pas à me dire si y a des formulations a changer ou rajouter des choses que j'aurais zappé",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028963169797939305",
+      "type": "Default",
+      "timestamp": "2022-10-10T09:32:16.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pendant les raids*\nInstaurer un système de loot council -> rendre plus transparent l'attribution en loot council (parce que ça existait déjà)\n\nUne liste d'item défini -> Une liste d'item dont l'attribution se fera par décision des officiers et non pas par le saint tableur.\n\nCette décision->ajouter \"liste non exhaustive\"",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028963199766241340",
+      "type": "Default",
+      "timestamp": "2022-10-10T09:32:24.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "En tout cas gg",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028969908194775050",
+      "type": "Default",
+      "timestamp": "2022-10-10T09:59:03.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Merci pour le retour je fais ça ce soir en rentrant",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029042997825916950",
+      "type": "Default",
+      "timestamp": "2022-10-10T14:49:29.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Aenas j'attends que tu mettes le compte rendu de la réunion avant l'annonce des items de loot council ? Ou balec",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306497756141322249",
+          "name": "Aenas",
+          "discriminator": "6010",
+          "nickname": "Siné\uD83C\uDF4D",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1029053178714542131",
+      "type": "Default",
+      "timestamp": "2022-10-10T15:29:56.689+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On en faire plusieurs, ça évitera de faire un gros pavé. Mais il reste des fautes à corriger avant d'envoyer ^^",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029055127899885628",
+      "type": "Default",
+      "timestamp": "2022-10-10T15:37:41.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oui oui tkt je fais les modifs en rentrant et la remets ici pour être sûr",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029084506621231145",
+      "type": "Default",
+      "timestamp": "2022-10-10T17:34:25.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pas compris ce que tu voulais dire avec ca",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029084509339123844",
+      "type": "Default",
+      "timestamp": "2022-10-10T17:34:26.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cette décision->ajouter \"liste non exhaustive\"",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029088072379412636",
+      "type": "Default",
+      "timestamp": "2022-10-10T17:48:35.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cette décision sera prise en fonction de plusieurs critères : investissement dans la guilde, entraide, consos utilisé en raid, flexibilité. => Cette décision sera prise en fonction de plusieurs critères : investissement dans la guilde, entraide, consos utilisés en raid, flexibilité (liste non exhaustive)",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091318397423696",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:01:29.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a oui ok",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091483602665493",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:02:09.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bonjour a tous ! L'attribution des loots pendant les raids va un petit peu changer. Le saint tableur fera toujours son office mais nous allons rendre plus transparent l'attribution en loot council (parce que ça existait déjà)\nUne liste d'item dont l'attribution se fera par décision des officiers et non pas par le saint tableur.\n\nCette décision sera prise en fonction de plusieurs critères : investissement dans la guilde, entraide, consos utilisé en raid,stuff enchants, flexibilité.(liste non exhaustive)\n\nVoici la liste des items qui seront pour l'instant soumis au council.\n\nArmes : - Torche du saint feu (KT 25) \n        - La marée décisive (KT 25)\n        -  Le dernier sourire (KT 25)\n        -  Traître a l'humanité (KT 25)\n        -  Voix de la raison (KT 25)\n        -  Grand bâtonduNexus(malygos10)\n\nOff hand : - Accursed spine (Noth25)\n           - Surplus limb (Patchwork25)\n           - Matriarch's Spawn (Maexxna25)\n\nCou : - Récompense de quête Malygos \n\nTrinket : - Représentation de l'âme des dragons (Sartha25)\n          - Âme des morts (Naxx25)\n          - Le glas sinistre (Naxx25)\n\nAnneau : - Chevalière de la souffrance manifeste (KT25)",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091727128150107",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:03:07.347+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tu peux virer (parce que ça existait déjà) :p",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091801371512933",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:03:25.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hahah okay",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091899765706752",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:03:48.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "je balance dans la foulée du coup",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029091938986635325",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:03:57.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30s",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029092320525684807",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:05:28.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bonjour a tous ! L'attribution des loots pendant les raids va un petit peu changer. Le saint tableur fera toujours son office mais nous allons rendre plus transparent l'attribution en loot council. \n\nCette attribution sera faite en fonction de plusieurs critères : investissement dans la guilde, entraide, consos utilisé en raid,stuff enchants, flexibilité.(liste non exhaustive)\n\nUne liste d'item dont l'attribution se fera par décision des officiers et non pas par le saint tableur sera mise en place à chaque pallier.\n\nVoici la liste des items qui seront pour l'instant soumis au council.\n\nArmes : - Torche du saint feu (KT 25) \n        - La marée décisive (KT 25)\n        -  Le dernier sourire (KT 25)\n        -  Traître a l'humanité (KT 25)\n        -  Voix de la raison (KT 25)\n        -  Grand bâtonduNexus(malygos10)\n\nOff hand : - Accursed spine (Noth25)\n           - Surplus limb (Patchwork25)\n           - Matriarch's Spawn (Maexxna25)\n\nCou : - Récompense de quête Malygos \n\nTrinket : - Représentation de l'âme des dragons (Sartha25)\n          - Âme des morts (Naxx25)\n          - Le glas sinistre (Naxx25)\n\nAnneau : - Chevalière de la souffrance manifeste (KT25)",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029092409348464742",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:05:50.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "j'ai changé un peu l'ordre des premières phrases",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029092474301456444",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:06:05.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pas de souci t es meilleur que moi la dessus",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029095235642470411",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:17:03.842+00:00",
+      "timestampEdited": "2022-10-11T08:51:08.358+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pour faire suite au post concernant les loots, plusieurs points sont amenés à changer.\nOn va commencer par ce qui est le plus important dans une guilde PVE : les soirs de raid.\nVous avez été nombreux à voter pour le maintien des soirs de raid les lundi et jeudi, les soirs de raid sont donc maintenus ces jours là.\nUn changement néanmoins dans l'horaire de raid. Il a été avancé à 20h30 ainsi que sa fin à 23h30. Le début de raid signifie que l'on commence à avancer à 20h30, pas à faire les TP ni acheter les consos.\nCe changement dans l'horaire a été décidé ainsi pour limiter la fatigue en fin de raid et que l'on reste concentrés jusqu'au bout.\nNous sommes conscients que démarrer à 20h30 ne sera pas facile, voir impossible, pour certains. Ces personnes ne seront pas mises au rebut, ni ne subiront de malus en cas de retard tant qu'elles PREVIENNENT (prévenir à 20h35 d'un retard, c'est non).\nA l'instar d'un malus en cas de retard, tous les manquements au bon déroulé des raids seront sanctionnés, que ca soit sur le ratio, ou sur le loot council.\nNous entendons par là le manque de consos, les retards, le manque de cohérence dans le personnage joué (spé / enchantement / rotation dps inadaptés).\nVous l'avez sûrement remarqué, mais Jrmou et Mistiko sont toujours dans le staff, sans être passés par la case démocratie.\nNous avons souhaité conserver Mistiko (et il a accepté également, ce n'est pas un kidnapping) en tant que voix de la sagesse concernant le relationnel intra guilde de par son calumet de la paix. Jrmou reste parmis nous en tant que GM honorifique, qui n'a pas plus d'autorité qu'un autre officier nous tenons à le préciser, \nmais également en tant que scribe du saint tableur, espion dans d'autres guildes, et voix de la sagesse concernant la gestion d'une guilde de par son expérience.",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029095240533033081",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:17:05.008+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Un dernier point très important pour la gestion des raids, et surtout en ce début d'extension, concerne la double spé.\nToutes les classes ayant plusieurs rôles possibles sont invitées à récupérer du stuff d'une autre spé que leur spé principale pour partir plus facilement en groupe guilde sans recruter de PU.\nL'attribution des loots pour ces membres ne sera pas différente selon leur spé. Si un joueur joue tank en spé principale et qu'il passe heal ou dps pour tout ou partie d'un raid, il pourra continuer de prétendre au stuff tank au ratio et loot council comme s'il avait tanké pendant le raid.",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029096445208440872",
+      "type": "Default",
+      "timestamp": "2022-10-10T18:21:52.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GM honorifique non? ^^ sinon cest nikel ! trés carré",
+      "author": {
+        "id": "157844976275816448",
+        "name": "Kalté",
+        "discriminator": "0212",
+        "nickname": "Kalté",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157844976275816448/32a927e2eb28181a6995502fd9ea149f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030698260588929074",
+      "type": "Default",
+      "timestamp": "2022-10-15T04:26:54.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ola! Ola! \n\nComme je vous en ai parlé sur didi dernièrement, je lance un sondage afin de savoir si vous seriez prêt(e)s à switch l'un de nos jours de raid voir les deux jours selon vos disponibilités. \nJe pense que vous savez la raison de ce sondage, si ce n'est pas le cas, il s'agit du problème que Siné a pour continuer de raid avec nous à cause de son vilain nouveau travail! \nEn gros lundi et jeudi sont les deux soirs impossibles pour lui #benchaviedesraids #cestterrible #jesuissinélofficierdéchu.\n\nDu coup je vais vous proposer simplement de faire un sondage de nouveau sur vos soirs disponibles éventuels EN DEHORS DU LUNDI ET JEUDI. \nPour ce faire, vous pouvez de nouveau cocher les réactions du lundi et jeudi + les autres soirs éventuels disponibles sous ce post #voirmalegendebis. \nUne fois les réactions de tout le monde réunies, si par exemple on voit qu'on a 25 react pour lundi et jeudi mais on a aussi en plus 20 react pour le mercredi et 10 pour le mardi... \nOn pourra envisager de switch le jeudi au mercredi et garder le lundi de sorte que Siné puisse au moins raid un soir avec nous, la démarche de ce sondage en est le but!\n \nSi ce n'est pas arrangeant pour (trop)beaucoup de monde que l'on switch un de nos jours ou les deux selon les réactions alors les jours resteront jeudi et lundi pas de problème, pas d'inquiétude. \n\n*Légende by Misti: ❤️ Lundi - \uD83D\uDC99 Mardi - \uD83D\uDC9C Mercredi - \uD83D\uDC9B Jeudi - \uD83D\uDC9A Dimanche*\n\nPas de raid25 du palier actu en guilde Vendredi et Samedi comme toujours!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030698364272115732",
+      "type": "Default",
+      "timestamp": "2022-10-15T04:27:19.492+00:00",
+      "timestampEdited": "2022-10-15T04:32:28.146+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cliquez uniquement sur les réactions ci-dessous !![Faites pas les singes pitié]!! en rapport avec vos jours disponibles svp!! Cela comprend Lundi et Jeudi si ces jours restent arrangeants pour vous ofc!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC99",
+            "code": "blue_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f499.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9C",
+            "code": "purple_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9B",
+            "code": "yellow_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49b.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9A",
+            "code": "green_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1030699042252005466",
+      "type": "Default",
+      "timestamp": "2022-10-15T04:30:01.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Staff Si c'est OK pour vous, je bombarde ca ce soir! Comme ca d'ici lundi, on sera fixé pour en parler vocal en théorie... Si les collègues réact rapidement au post sinon on validera pour sem pro!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C\uD83C\uDFFF",
+            "code": "ok_hand_tone5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c-1f3ff.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1030700208784408596",
+      "type": "Default",
+      "timestamp": "2022-10-15T04:34:39.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "MÉ SURTOU NIK SINÉ Je pourrai ajouter au bas selon le feeling ca!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030700318666805268",
+      "type": "Default",
+      "timestamp": "2022-10-15T04:35:05.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto: :Mistikoto:",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030751797700210760",
+      "type": "Default",
+      "timestamp": "2022-10-15T07:59:39.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Merci Misti ❤️",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C",
+            "code": "ok_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1030754405995266048",
+      "type": "Default",
+      "timestamp": "2022-10-15T08:10:00.88+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok pour moi",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034306297220300860",
+      "type": "Default",
+      "timestamp": "2022-10-25T03:23:57.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Faudra qu'on fasse une annonce définitive quant aux jours de raids si ca change OU PAS... Et faudrait qu'on donne nos avis car selon le sondage c'est le mercredi qui l'emporte mais j'ai cru comprendre que c'etait un probleme pour plus de trois personnes ou je me trompe? Bref faut faire le point et annoncer d'ici jeudi aux mates!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034306428569145384",
+      "type": "Default",
+      "timestamp": "2022-10-25T03:24:29.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Staff",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034364017243848735",
+      "type": "Default",
+      "timestamp": "2022-10-25T07:13:19.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "De mon point de vue on change rien, il y a trop de monde qui ne s'est pas prononcé, trop peu de différence avec le jeudi, et trop de gens qui ne pourront plus du tout raider le jeudi pour que ça vaille le coup",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034372455197835294",
+      "type": "Default",
+      "timestamp": "2022-10-25T07:46:51.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Et un jeudi mardi ?",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034435763808501800",
+      "type": "Default",
+      "timestamp": "2022-10-25T11:58:24.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oai jeudi mardi ça peut le faire si ça va pour all faut voir quoi",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034437699140059150",
+      "type": "Default",
+      "timestamp": "2022-10-25T12:06:06.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On va pas se mentir vu la durée des raids on va pas beaucoup raid le 2e soir",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034438076493201469",
+      "type": "Default",
+      "timestamp": "2022-10-25T12:07:36.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ça fait poser trop de questions à 40 personnes de faire ce changement",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034447868213346314",
+      "type": "Default",
+      "timestamp": "2022-10-25T12:46:30.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pour le moment on a pas trop besoin du 2eme jours mais pour ulduar on va en avoir besoin",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034473774206177401",
+      "type": "Default",
+      "timestamp": "2022-10-25T14:29:27.364+00:00",
+      "timestampEdited": "2022-10-25T14:29:45.28+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oai Mais comme dit thalose on arrivera vite à la p2 et je vise du long terme pas only la p1… on voit bien que c’est trop contraignant le mercredi apparemment mais on peut pe envisager le mardi à la place du lundi",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034476217790910514",
+      "type": "Default",
+      "timestamp": "2022-10-25T14:39:09.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Y a moins de gens que le mercredi,  et moins que jeudi et lundi",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C\uD83C\uDFFF",
+            "code": "ok_hand_tone5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c-1f3ff.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1034526396539752519",
+      "type": "Default",
+      "timestamp": "2022-10-25T17:58:33.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bon ben nik alors si ça n’arrange pas… ça sera pas faute d’avoir essayé mon bro @Aenas",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306497756141322249",
+          "name": "Aenas",
+          "discriminator": "6010",
+          "nickname": "Siné\uD83C\uDF4D",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1034558990450966560",
+      "type": "Default",
+      "timestamp": "2022-10-25T20:08:04.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "❤️",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 59
+}

@@ -1,0 +1,59 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "636136674274967573",
+    "type": "GuildVoiceChat",
+    "categoryId": "636104098902441998",
+    "category": "Vocal",
+    "name": "Döner Kebap",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1088444242956910713",
+      "type": "Default",
+      "timestamp": "2023-03-23T12:48:49.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://media.discordapp.net/attachments/1014635232865038418/1088438202248994858/Screenshot_20230323_082416.jpg?width=629&height=905",
+      "author": {
+        "id": "182043034412646400",
+        "name": "Makakou",
+        "discriminator": "1438",
+        "nickname": "Bolso",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/182043034412646400/ec4a4652bb56e7f54712ceeb70ea68e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://media.discordapp.net/attachments/1014635232865038418/1088438202248994858/Screenshot_20230323_082416.jpg?width=629&height=905",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1014635232865038418/1088438202248994858/Screenshot_20230323_082416.jpg",
+            "width": 629,
+            "height": 905
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

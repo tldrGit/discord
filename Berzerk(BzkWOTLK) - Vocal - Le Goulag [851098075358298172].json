@@ -1,0 +1,60 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "851098075358298172",
+    "type": "GuildVoiceChat",
+    "categoryId": "636104098902441998",
+    "category": "Vocal",
+    "name": "Le Goulag",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1047201286422007859",
+      "type": "Default",
+      "timestamp": "2022-11-29T17:24:02.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://warcraft-secrets.com/guides/time-lost-proto-drake",
+      "author": {
+        "id": "140867648316506113",
+        "name": "Narcissae",
+        "discriminator": "8577",
+        "nickname": "Movezfoissaé",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140867648316506113/103aea295a3387fccad61056bab45a57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Time-Lost Proto-Drake - Rare Spawn Mount Guide",
+          "url": "https://warcraft-secrets.com/guides/time-lost-proto-drake",
+          "timestamp": null,
+          "description": "How to get the Time-Lost Proto-Drake Rare Spawn Mount. This guide includes tips and tricks, spawn points, spawn timers, how to camp Time-Lost Proto-Drake, recommended addons, useful macros and more!",
+          "color": "#00A0EA",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VNAXuqtvhat3wSKDtYREfZZfhSVfx7kToInXJrnim6k/https/warcraft-secrets.com/wp-content/uploads/Time-Lost-Proto-Drake.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,96 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "825882266768113664",
+    "type": "GuildVoiceChat",
+    "categoryId": "636104098902441998",
+    "category": "Vocal",
+    "name": "Esselté a tousse",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1079947528063160340",
+      "type": "Default",
+      "timestamp": "2023-02-28T02:05:55.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://squip.com/product/wow/",
+      "author": {
+        "id": "208754883657072640",
+        "name": "Molton",
+        "discriminator": "6553",
+        "nickname": "Molton",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/208754883657072640/4a003c1c26f8d5f03add430eb8606c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FigurePrints by Squip - Squip",
+          "url": "https://squip.com/product/wow/",
+          "timestamp": null,
+          "description": "Our custom statues are created using our groundbreaking method of high-resolution fabrication. Our artists can bring your World of Warcraft characters to life from the virtual world. WoW Classic & The Burning Crusade Equipped Dominate the dark portal with our newest classic armor sets. Equip your retail character with The Burning Crusade armor s...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vklrOPRuJp7DO3DyTT57vqBgbCk6OYeLT5BBu9GORYI/https/squip.com/wp-content/uploads/2021/01/Tauren-druid.jpg",
+            "width": 2400,
+            "height": 2400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1079949183529779260",
+      "type": "Default",
+      "timestamp": "2023-02-28T02:12:29.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://squip.com/product/wow/",
+      "author": {
+        "id": "208754883657072640",
+        "name": "Molton",
+        "discriminator": "6553",
+        "nickname": "Molton",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/208754883657072640/4a003c1c26f8d5f03add430eb8606c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FigurePrints by Squip - Squip",
+          "url": "https://squip.com/product/wow/",
+          "timestamp": null,
+          "description": "Our custom statues are created using our groundbreaking method of high-resolution fabrication. Our artists can bring your World of Warcraft characters to life from the virtual world. WoW Classic & The Burning Crusade Equipped Dominate the dark portal with our newest classic armor sets. Equip your retail character with The Burning Crusade armor s...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vklrOPRuJp7DO3DyTT57vqBgbCk6OYeLT5BBu9GORYI/https/squip.com/wp-content/uploads/2021/01/Tauren-druid.jpg",
+            "width": 2400,
+            "height": 2400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

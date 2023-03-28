@@ -1,0 +1,112 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "1087697327130677249",
+    "type": "GuildTextChat",
+    "categoryId": "852936805288640563",
+    "category": "raid 25",
+    "name": "autres-raids-25",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1087697527870074942",
+      "type": "Default",
+      "timestamp": "2023-03-21T11:21:39.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Un petit chan pour vous proposer d'autre raids si interessé \uD83D\uDE42",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087697707264647188",
+      "type": "Default",
+      "timestamp": "2023-03-21T11:22:21.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dimanche Soir 20:30 - 4 SR  - NM ou HMs ( à check sur l'event ) \nhttps://discord.gg/dmpVexWs",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087698260476563569",
+      "type": "Default",
+      "timestamp": "2023-03-21T11:24:33.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Une guilde qui cherche quelque lasts (comme nous) , Mercredi / Dim soir en SR\nHesitez pas a wisp Serran ou Rajor sur leur didi \uD83D\uDE42\n(Y'allez pas avec vos persos trasho ou vous avez toujours pas appris votre spell rang max merci a tous)\n\nhttps://discord.gg/k6mynP3Jf6",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "code": "raised_hands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

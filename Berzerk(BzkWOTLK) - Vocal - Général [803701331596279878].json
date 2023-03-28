@@ -1,0 +1,59 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "803701331596279878",
+    "type": "GuildVoiceChat",
+    "categoryId": "636104098902441998",
+    "category": "Vocal",
+    "name": "Général",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1018952846504370196",
+      "type": "Default",
+      "timestamp": "2022-09-12T18:34:49.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://en.wikipedia.org/wiki/Sandu_Ciorba",
+      "author": {
+        "id": "140867648316506113",
+        "name": "Narcissae",
+        "discriminator": "8577",
+        "nickname": "Movezfoissaé",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140867648316506113/103aea295a3387fccad61056bab45a57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sandu Ciorba",
+          "url": "https://en.wikipedia.org/wiki/Sandu_Ciorba",
+          "timestamp": null,
+          "description": "Alexandru Ciorba, better known as Sandu Borsch, is a Romanian singer-songwriter from who is known for his work in the manele music genre. His singles \"Dalibomba\" and \"Pe Cimpoi\" have become viral in Poland, and critics praised his musical and video style as \"unique and weird\".  Born in Cluj-Napoca, Ciorba is of Romani heritage.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cax_Vjj350WaL-jJKYqKa2MnvUgfzhI5M7TOVyEmB_8/https/upload.wikimedia.org/wikipedia/commons/2/21/Sanduciorbaofficial.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

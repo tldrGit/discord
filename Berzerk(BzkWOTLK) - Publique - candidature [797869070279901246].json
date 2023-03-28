@@ -1,0 +1,91 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "797869070279901246",
+    "type": "GuildTextChat",
+    "categoryId": "636104098902441996",
+    "category": "Publique",
+    "name": "candidature",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1031052782670708867",
+      "type": "Default",
+      "timestamp": "2022-10-16T03:55:39.423+00:00",
+      "timestampEdited": "2023-02-20T13:24:36.594+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si vous voulez rejoindre Berzerk, vous êtes dans le bon chan!\n\n\n<All contenu raid cleared depuis Classic by Berzerk>\n\nWOTLK: Naxxramas 10/25 - Oeil de l'éternité 10/25 - Le Sanctum Obsidien 10/25 3D ✅ \n\n\n**Etat du recrutement raid 25  [Level 80 Requis]**\n\n\uD83D\uDC80 DK: Close\n:ClassWarlock: Demo: Close\n\uD83E\uDD81 Drood: Open - 2 Slots - Boomi/RDrood/Feral\n:ClassHunter: Hunt: Open  -  1 Slot\n:ClassMage: Mage: Open - 1 Slot - Arcane/Fire\n\uD83D\uDD06 Pal: Open - 1 Slot - Hpal\n:ClassPriest: Priest: Open  -  2 Slots - SP/DP/HP\n:ClassRogue: Rogue: Close\n:ClassShaman: Shaman: Open - 2 Slots - Elem/Amelio\n:ClassWarrior: War: Close\n\nLes raids se déroulent le jeudi et le lundi soir, de 20h30 à 23h30.\n2 soirs/semaine obligatoires et nous faisons en sorte de respecter ces horaires pour le bien et dans le respect de tous.\nSi le recrutement est limité/fermé pour votre classe, n'hésitez pas à mp le staff pour nous demander des infos supplémentaires ou si vous pensez avoir vos chances malgré tout!\nNous étudions toutes les candidatures intéressantes et pourrons faire exception pour certaines.\n\nVous devez contacter un officier pour avoir le grade de candidat afin de pouvoir écrire un message dans le salon concerné, en partie privée. \uD83D\uDC4C \n\nMerci pour votre intérêt aux Zerk et bon jeu à vous! \uD83D\uDCAA",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1031056654269157407",
+      "type": "Default",
+      "timestamp": "2022-10-16T04:11:02.484+00:00",
+      "timestampEdited": "2023-02-16T06:50:37.615+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update 16/02/23 @Raider @Staff Go Share!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1077136324789813249",
+      "type": "Default",
+      "timestamp": "2023-02-20T07:55:12.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LF 1 Hunt/SP Prio \uD83D\uDE42",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

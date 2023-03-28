@@ -1,0 +1,218 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "1088603828791808151",
+    "type": "GuildTextChat",
+    "categoryId": "897609510364012554",
+    "category": "Raid 10 & PU",
+    "name": "uldu10-lundi-20h30",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1088603992717799504",
+      "type": "Default",
+      "timestamp": "2023-03-23T23:23:37.148+00:00",
+      "timestampEdited": "2023-03-27T18:35:04.566+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1088603992717799504 \n**:U: :L: :D: :U: :empty: :1: :0: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 27, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **10** (+3)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **4** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **3** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Protection: `10` **Aeglo\uD83D\uDEE1**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (1):**\n:Unholy_DPS: `13` **Culrempli**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (2):**\n:Feral: `7` **Bernarmito**\n:Balance: `12` **MéMisti!\uD83E\uDDD9**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (2):**\n:Holy1: `2` **Kalté**\n:Retribution: `3` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `1` **Skaf\uD83E\uDD55**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `4` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Elemental: `6` **Mététrap**\n:Enhancement: `9` **Lipido\uD83C\uDF0C**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Bench: Bench (1) : :Fire: `8` **luffy⚡**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (2) : :Blood_Tank: `5` **Kn\uD83D\uDE81\uD83D\uDE81**, :Restoration: `11` **Surtur\uD83E\uDE79**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1088603992717799504)** | **[Comp](https://raid-helper.dev/raidplan/1088603992717799504)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230327T183000Z%2F20230327T183000Z&text=Uldu%2010)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1090202387102302338",
+      "type": "Default",
+      "timestamp": "2023-03-28T09:15:04.066+00:00",
+      "timestampEdited": "2023-03-28T09:15:09.893+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "on va se faire censurer bientot trop spam dans le mauvais chan bordel",
+      "author": {
+        "id": "219570386101207041",
+        "name": "Skaf",
+        "discriminator": "7488",
+        "nickname": "Skaf\uD83E\uDD55",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570386101207041/ed93a9a053f6a5cfe5b2c317bd6fd18a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1090203038976856136",
+      "type": "Reply",
+      "timestamp": "2023-03-28T09:17:39.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Accordé",
+      "author": {
+        "id": "306497756141322249",
+        "name": "Aenas",
+        "discriminator": "6010",
+        "nickname": "Siné\uD83C\uDF4D",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306497756141322249/f9513ed6442e62f472ee84e20d11b997.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "759007642416447508",
+            "name": "BanOVE",
+            "code": "BanOVE",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/759007642416447508.gif"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "219570386101207041",
+          "name": "Skaf",
+          "discriminator": "7488",
+          "nickname": "Skaf\uD83E\uDD55",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570386101207041/ed93a9a053f6a5cfe5b2c317bd6fd18a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1090202387102302338",
+        "channelId": "1088603828791808151",
+        "guildId": "636104098902441995"
+      }
+    }
+  ],
+  "messageCount": 3
+}

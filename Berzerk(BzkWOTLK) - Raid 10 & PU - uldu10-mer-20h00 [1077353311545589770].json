@@ -1,0 +1,1740 @@
+{
+  "guild": {
+    "id": "636104098902441995",
+    "name": "Berzerk(BzkWOTLK)",
+    "iconUrl": "https://cdn.discordapp.com/icons/636104098902441995/d1532ab5c7208e1ac0f5abc7202888e6.png?size=512"
+  },
+  "channel": {
+    "id": "1077353311545589770",
+    "type": "GuildTextChat",
+    "categoryId": "897609510364012554",
+    "category": "Raid 10 & PU",
+    "name": "uldu10-mer-20h00",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1077353522686869576",
+      "type": "Default",
+      "timestamp": "2023-02-20T22:18:16.069+00:00",
+      "timestampEdited": "2023-03-01T19:18:29.082+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1077353522686869576 \n**:U: :L: :D: :U: :empty: :1: :0: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: February 22, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **9**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 0** Melee **5** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **2** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (1):**\n:Unholy_DPS: `14` **Mlleq**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `12` **kolossal/dkol**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Druid:   **__Druid__ (1):**\n:Restoration: `9` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (1):**\n:Retribution: `1` **Chico\uD83D\uDCA6**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (2):**\n:Combat: `7` **PutedeMété**\n:Combat: `13` **Pimenterie\uD83E\uDD8A**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Affliction: `10` **Berma**\n:Affliction: `11` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `2` **Kn\uD83D\uDE81\uD83D\uDE81**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (6) :  `3` **Shunzo\uD83D\uDDE1**,  `4` **Meren\uD83E\uDD66**,  `5` **Lipido\uD83C\uDF0C**,  `6` **Mété**,  `8` **Jrmou**,  `15` **Surtur\uD83E\uDE79**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)\n**[Web View](https://raid-helper.dev/event/1077353522686869576)** | **[Comp](https://raid-helper.dev/raidplan/1077353522686869576)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230222T193000Z%2F20230222T193000Z&text=Uldu%2010)** | :closed: since: March 01, 2023 8:17 PM",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1078093445903700008",
+      "type": "Default",
+      "timestamp": "2023-02-22T23:18:27.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://fr.classic.warcraftlogs.com/reports/KwLBAdPkh7xXv4tN/",
+      "author": {
+        "id": "382319540346028034",
+        "name": "Aigrito",
+        "discriminator": "5597",
+        "nickname": "Kn \uD83D\uDE81\uD83D\uDE81",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382319540346028034/e8d0ce3fd16fa8c554862090972c703d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1078328839668760767",
+      "type": "Default",
+      "timestamp": "2023-02-23T14:53:49.758+00:00",
+      "timestampEdited": "2023-03-01T19:18:28.304+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1078328839668760767 \n**:U: :L: :D: :U: :empty: :1: :0: :empty: :H: :M: :empty: :O: :U: :empty: :T: :R: :A: :P: **\n\n0",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendar: March 01, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclock: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **10** (+1)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **4** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **3** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Protection: `12` **Berma**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (1):**\n:Unholy_DPS: `13` **Mlleq**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `9` **Pimenterie\uD83E\uDD8A**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (1):**\n:Holy1: `8` **Una**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Combat: `11` **PutedeMété**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Demonology: `1` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Affliction: `5` **Konétable**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Discipline: `6` **Jousie**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Enhancement: `2` **Lipido\uD83C\uDF0C**\n:Elemental: `10` **Molton**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (1) : :Restoration1: `7` **Surtur\uD83E\uDE79**\n:Absence: Absence (3) :  `3` **Mété**,  `4` **Chico\uD83D\uDCA6**,  `14` **Shunzo\uD83D\uDDE1**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)\n**[Web View](https://raid-helper.dev/event/1078328839668760767)** | **[Comp](https://raid-helper.dev/raidplan/1078328839668760767)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230301T193000Z%2F20230301T193000Z&text=Uldu%2010%20hm%20ou%20trap)** | :closed: since: March 01, 2023 8:18 PM",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080755504139223101",
+      "type": "Default",
+      "timestamp": "2023-03-02T07:36:31.653+00:00",
+      "timestampEdited": "2023-03-08T19:37:32.527+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1080755504139223101 \n**:U: :L: :D: :U: :empty: :M: :E: :R: :C: :R: :E: :D: :I: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 08, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **11**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **3** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **5** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Protection1: `5` **Malychou**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (1):**\n:Frost_DPS: `7` **Kn\uD83D\uDE81\uD83D\uDE81**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (1):**\n:Holy1: `4` **Mlleq**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Rogue:   **__Rogue__ (1):**\n:Assassination: `8` **Meren\uD83E\uDD66**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `10` **Skaf\uD83E\uDD55**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (2):**\n:Affliction: `1` **Konétable**\n:Affliction: `9` **Berma**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (2):**\n:Holy: `6` **Mushaka\uD83D\uDD6F**\n:Shadow: `11` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (2):**\n:Elemental: `2` **Mété**\n:Enhancement: `3` **Lipido\uD83C\uDF0C**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1080755504139223101)** | **[Comp](https://raid-helper.dev/raidplan/1080755504139223101)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230308T193000Z%2F20230308T193000Z&text=uldu%20mercredi)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1083289104285970553",
+      "type": "Default",
+      "timestamp": "2023-03-09T07:24:09+00:00",
+      "timestampEdited": "2023-03-15T19:31:36.323+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Kn \uD83D\uDE81\uD83D\uDE81 - ID: 1083289104285970553 \n**:U: :L: :D: :O: :U: :X: :H: :A: :R: **",
+          "color": "#FF0000",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendarRed: March 15, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclockRed: 8:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signupsRed: **[1](https://softres.it/raid/gxt3pp)** / **7**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **1** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **3** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Blood_Tank: `11` **Siné\uD83C\uDF4D**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Hunter:   **__Hunter__ (1):**\n:Survival: `12` **[Skaf\uD83E\uDD55](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warlock:   **__Warlock__ (1):**\n:Demonology: `9` **Kn\uD83D\uDE81\uD83D\uDE81**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (3):**\n:Discipline: `2` **Mété**\n:Holy: `5` **Mushaka\uD83D\uDD6F**\n:Shadow: `13` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (1):**\n:Enhancement: `1` **Lipido\uD83C\uDF0C**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": "‎",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Absence: Absence (6) :  `3` **MéMisti!\uD83E\uDDD9**,  `4` **Mlleq**,  `6` **Berma**,  `7` **Pimenterie\uD83E\uDD8A**,  `8` **Molton**,  `10` **Surtur\uD83E\uDE79**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1083289104285970553)** | **[Comp](https://raid-helper.dev/raidplan/1083289104285970553)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230315T193000Z%2F20230315T193000Z&text=Uldouxhar)** | :softres: **[Softres.it](https://softres.it/raid/gxt3pp)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087553935256059993",
+      "type": "Default",
+      "timestamp": "2023-03-21T01:51:03.94+00:00",
+      "timestampEdited": "2023-03-27T11:01:02.441+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "579155972115660803",
+        "name": "Raid-Helper",
+        "discriminator": "3806",
+        "nickname": "Raid-Helper",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/579155972115660803/2776e800a7823d154bce3cd36efa057b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Leader: Mé Misti!\uD83E\uDDD9 - ID: 1087553935256059993 \n**:U: :L: :D: :U: :1: :0: :empty: :F: :U: :L: :L: :H: :M: **\n\nUlduar 10 FULLHM MAIN ONLY SOUHAITE avec une MARGE DE TEMPS après minuit pour ALGA potentiellement! Présences des bros souhaités, couchez vos daronnes et prenez vos tartines avec! Merssi a ts é toute!",
+          "color": "#71368A",
+          "images": [],
+          "fields": [
+            {
+              "name": "‎",
+              "value": ":CMcalendar: March 29, 2023",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":CMclock: 8:00 PM",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":signups: **[1](https://softres.it/raid/uhe9rg)** / **9** (+1)",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tanks:** 1** Melee **5** :Dps:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Ranged: Ranged **1** :Ranged:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Healers: Healers **2** :Healers:",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tank:   **__Tank__ (1):**\n:Protection: `11` **Bernarmito**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":DK:   **__DK__ (2):**\n:Frost_DPS: `5` **Kn\uD83D\uDE81\uD83D\uDE81**\n:Unholy_DPS: `8` **Culrempli**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Warrior:   **__Warrior__ (1):**\n:Fury: `12` **luffy⚡**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Paladin:   **__Paladin__ (2):**\n:Holy1: `2` **Mététrap**\n:Retribution: `3` **Ballenar**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Mage:   **__Mage__ (1):**\n:Fire: `1` **[MéMisti!\uD83E\uDDD9](https://has.reserved)**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Priest:   **__Priest__ (1):**\n:Holy: `9` **Mushaka\uD83D\uDD6F**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Shaman:   **__Shaman__ (1):**\n:Enhancement: `4` **kolossal/dkol**",
+              "isInline": true
+            },
+            {
+              "name": "‎",
+              "value": ":Tentative: Tentative (1) : :Assassination: `7` **Meren\uD83E\uDD66**\n:Absence: Absence (3) :  `6` **Lipido\uD83C\uDF0C**,  `10` **Shunzo\uD83D\uDDE1**,  `13` **Una**",
+              "isInline": false
+            },
+            {
+              "name": "‎",
+              "value": "**[Web View](https://raid-helper.dev/event/1087553935256059993)** | **[Comp](https://raid-helper.dev/raidplan/1087553935256059993)** | **[Gcal](https://www.google.com/calendar/event?action=TEMPLATE&dates=20230329T180000Z%2F20230329T180000Z&text=Uldu10%20FULLHM)** | :softres: **[Softres.it](https://softres.it/raid/uhe9rg)** | **[Premium](https://raid-helper.dev/premium/)** | [Commands](https://raid-helper.dev/documentation/commands)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087556529080770711",
+      "type": "Default",
+      "timestamp": "2023-03-21T02:01:22.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Raider @Membre @Staff",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087556595401117756",
+      "type": "Default",
+      "timestamp": "2023-03-21T02:01:38.168+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087556646017958008",
+      "type": "Default",
+      "timestamp": "2023-03-21T02:01:50.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DATE 29/03 20h00",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087610374737637457",
+      "type": "Default",
+      "timestamp": "2023-03-21T05:35:20.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Marged",
+      "author": {
+        "id": "360379755003904002",
+        "name": "Lipido",
+        "discriminator": "2193",
+        "nickname": "Lipido \uD83C\uDF0C",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087779788372058263",
+      "type": "Default",
+      "timestamp": "2023-03-21T16:48:31.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "un peu embêté par l'heure de démarrage, mais je vais me démerder. Je vous préviens d'ici demain si retard, acceptable ou non",
+      "author": {
+        "id": "624720487670480896",
+        "name": "Mushaka",
+        "discriminator": "7160",
+        "nickname": "Mushaka \uD83D\uDD6F",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087782512631222334",
+      "type": "Reply",
+      "timestamp": "2023-03-21T16:59:21.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Mistikø il a mit 20h, mais le temps qu’il mange, prenne une douche, couche la petite il sera 2h du matin \uD83D\uDE09",
+      "author": {
+        "id": "232842860016304129",
+        "name": "Merenthor",
+        "discriminator": "0418",
+        "nickname": "Meren\uD83E\uDD66",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/232842860016304129/353c43677e25c292312e85e6d6436a2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE05",
+            "code": "sweat_smile",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f605.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "624720487670480896",
+          "name": "Mushaka",
+          "discriminator": "7160",
+          "nickname": "Mushaka \uD83D\uDD6F",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+        },
+        {
+          "id": "220310161464492036",
+          "name": "Mistikø",
+          "discriminator": "6718",
+          "nickname": "Mé Misti!\uD83E\uDDD9",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1087779788372058263",
+        "channelId": "1077353311545589770",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1087788322442723368",
+      "type": "Default",
+      "timestamp": "2023-03-21T17:22:26.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "J’ai mit 20h pour avoir plus de marge derrière si on go alga",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1087788590794276964",
+      "type": "Default",
+      "timestamp": "2023-03-21T17:23:30.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si c’est 15min de retard np faut pas que ça soit une demi heure une heure quoi ça fait long le retard @Mushaka",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624720487670480896",
+          "name": "Mushaka",
+          "discriminator": "7160",
+          "nickname": "Mushaka \uD83D\uDD6F",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1087812742242652181",
+      "type": "Default",
+      "timestamp": "2023-03-21T18:59:28.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Non mais jms de la vie je vous impose ça",
+      "author": {
+        "id": "624720487670480896",
+        "name": "Mushaka",
+        "discriminator": "7160",
+        "nickname": "Mushaka \uD83D\uDD6F",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1087812743542886460",
+      "type": "Default",
+      "timestamp": "2023-03-21T18:59:28.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG @Mushaka, you just advanced to level 2!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#E91E63",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624720487670480896",
+          "name": "Mushaka",
+          "discriminator": "7160",
+          "nickname": "Mushaka \uD83D\uDD6F",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1088043391419433020",
+      "type": "Default",
+      "timestamp": "2023-03-22T10:15:59.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Confirmé, je serai sûrement à l'arrache mais je suis positionné devant",
+      "author": {
+        "id": "624720487670480896",
+        "name": "Mushaka",
+        "discriminator": "7160",
+        "nickname": "Mushaka \uD83D\uDD6F",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1088048344162652192",
+      "type": "Default",
+      "timestamp": "2023-03-22T10:35:40.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "C'est le 29 mars Musha",
+      "author": {
+        "id": "705524070304710728",
+        "name": "Berma",
+        "discriminator": "7406",
+        "nickname": "Bernarmito",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1088063957983576104",
+      "type": "Default",
+      "timestamp": "2023-03-22T11:37:42.834+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "musha dans le passé du futur",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1088120107877814373",
+      "type": "Reply",
+      "timestamp": "2023-03-22T15:20:50.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "T’as de la marge Mushmush…. C’est le 29 mon raid du coup je te recommande de pas attendre devant uldu jusque là hahaaa mon bro \uD83D\uDE0E @Mushaka",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "624720487670480896",
+          "name": "Mushaka",
+          "discriminator": "7160",
+          "nickname": "Mushaka \uD83D\uDD6F",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624720487670480896/4fc15a8378228964a5df73ce5187f6b7.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1088043391419433020",
+        "channelId": "1077353311545589770",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1089605875875983450",
+      "type": "Default",
+      "timestamp": "2023-03-26T17:44:44.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "20h ca sera trop tendu pour moi finalement. Probablement dispo après 22h comme d’hab.",
+      "author": {
+        "id": "232842860016304129",
+        "name": "Merenthor",
+        "discriminator": "0418",
+        "nickname": "Meren\uD83E\uDD66",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/232842860016304129/353c43677e25c292312e85e6d6436a2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089624083928465418",
+      "type": "Default",
+      "timestamp": "2023-03-26T18:57:05.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok poussin \uD83D\uDC25",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089624158788399174",
+      "type": "Default",
+      "timestamp": "2023-03-26T18:57:23.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pas possible de démarrer à 22h si on veut faire un full clear",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089854986403467334",
+      "type": "Default",
+      "timestamp": "2023-03-27T10:14:37.285+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ya pas de caster c'est emmerdant ça Misti! Je switch sur le majisien dé ténèbr si il fo",
+      "author": {
+        "id": "705524070304710728",
+        "name": "Berma",
+        "discriminator": "7406",
+        "nickname": "Bernarmito",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705524070304710728/9704d77bf040753ce3b1de585507ef62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089936840305410058",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:39:52.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cé emmerdan en efè",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089937497468973057",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:42:29.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Krissprols vient mon bro \uD83D\uDE0E",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "207992794327810048",
+          "name": "Krissprols",
+          "discriminator": "1918",
+          "nickname": "Kriss \uD83C\uDF77",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "1089937573792723207",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:42:47.653+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thal bordel @Thalose",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "243059837544562698",
+          "name": "Thalose",
+          "discriminator": "6536",
+          "nickname": "Thalose",
+          "color": "#206694",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1089937629761523792",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:43:00.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Le mercredi c'est entraînement",
+      "author": {
+        "id": "243059837544562698",
+        "name": "Thalose",
+        "discriminator": "6536",
+        "nickname": "Thalose",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243059837544562698/628830ce03bb9c00b922f176b9175f33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089937659264258133",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:43:08.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dé kasteur jé bezouin",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089937795889512639",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:43:40.605+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Chicoscabana Fidellll",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "219570458180321282",
+          "name": "Chicoscabana",
+          "discriminator": "9619",
+          "nickname": "Chico\uD83D\uDCA6",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1089937878198517870",
+      "type": "Default",
+      "timestamp": "2023-03-27T15:44:00.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Viendé lé kastor",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089943008557928500",
+      "type": "Reply",
+      "timestamp": "2023-03-27T16:04:23.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "j'ai un démo 4.4K Gs tu prends?",
+      "author": {
+        "id": "259773840429809665",
+        "name": "Luffy",
+        "discriminator": "0451",
+        "nickname": "Luffy",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259773840429809665/9ff1a8501dd096fed93c2f3f7e39ff8a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "220310161464492036",
+          "name": "Mistikø",
+          "discriminator": "6718",
+          "nickname": "Mé Misti!\uD83E\uDDD9",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1089937659264258133",
+        "channelId": "1077353311545589770",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1089943495336280175",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:06:19.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Need alga only wesh",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089948735179587594",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:27:08.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Et l’tony il a cmb de gs mon bro? @Luffy hahaa",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "259773840429809665",
+          "name": "Luffy",
+          "discriminator": "0451",
+          "nickname": "Luffy",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/259773840429809665/9ff1a8501dd096fed93c2f3f7e39ff8a.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1089948918625865748",
+      "type": "Reply",
+      "timestamp": "2023-03-27T16:27:52.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nik vient faire le full si Kriss peut pas venir! Fait pas iech!",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "219570458180321282",
+          "name": "Chicoscabana",
+          "discriminator": "9619",
+          "nickname": "Chico\uD83D\uDCA6",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1089943495336280175",
+        "channelId": "1077353311545589770",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1089949037836369960",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:28:20.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tony peut si y'a un sp pour dimanche",
+      "author": {
+        "id": "259773840429809665",
+        "name": "Luffy",
+        "discriminator": "0451",
+        "nickname": "Luffy",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259773840429809665/9ff1a8501dd096fed93c2f3f7e39ff8a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089949099656228864",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:28:35.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mhmmmm",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089949185429753936",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:28:56.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Arrange toi avec Kaan le grotrasho",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089949252706385960",
+      "type": "Default",
+      "timestamp": "2023-03-27T16:29:12.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Comme ça tu sors le sp mon bro \uD83D\uDE0E",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089959121119367301",
+      "type": "Default",
+      "timestamp": "2023-03-27T17:08:24.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pas up mercredi",
+      "author": {
+        "id": "207992794327810048",
+        "name": "Krissprols",
+        "discriminator": "1918",
+        "nickname": "Kriss \uD83C\uDF77",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089974494761852968",
+      "type": "Default",
+      "timestamp": "2023-03-27T18:09:30.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wallllaïïïï fo ktu vien @Chicoscabana",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "219570458180321282",
+          "name": "Chicoscabana",
+          "discriminator": "9619",
+          "nickname": "Chico\uD83D\uDCA6",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1089974617348771943",
+      "type": "Default",
+      "timestamp": "2023-03-27T18:09:59.525+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Le J cé le S",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089981041969745930",
+      "type": "Default",
+      "timestamp": "2023-03-27T18:35:31.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "j c pa tro",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089981059929747497",
+      "type": "Default",
+      "timestamp": "2023-03-27T18:35:35.556+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mercredi c cho c cho",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1090171987818721372",
+      "type": "Default",
+      "timestamp": "2023-03-28T07:14:16.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bientôt l'inscription de Skaf",
+      "author": {
+        "id": "219570386101207041",
+        "name": "Skaf",
+        "discriminator": "7488",
+        "nickname": "Skaf\uD83E\uDD55",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570386101207041/ed93a9a053f6a5cfe5b2c317bd6fd18a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1090235953374826626",
+      "type": "Reply",
+      "timestamp": "2023-03-28T11:28:26.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fé pachié :chicoto:",
+      "author": {
+        "id": "220310161464492036",
+        "name": "Mistikø",
+        "discriminator": "6718",
+        "nickname": "Mé Misti!\uD83E\uDDD9",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/220310161464492036/5a344ab06b9a598a3ad0e7725ba0ab22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "219570458180321282",
+          "name": "Chicoscabana",
+          "discriminator": "9619",
+          "nickname": "Chico\uD83D\uDCA6",
+          "color": "#E67E22",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1089981041969745930",
+        "channelId": "1077353311545589770",
+        "guildId": "636104098902441995"
+      }
+    },
+    {
+      "id": "1090246100885180466",
+      "type": "Default",
+      "timestamp": "2023-03-28T12:08:46.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmm le bon caca",
+      "author": {
+        "id": "219570458180321282",
+        "name": "Chicoscabana",
+        "discriminator": "9619",
+        "nickname": "Chico\uD83D\uDCA6",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219570458180321282/b4ebe6b55497e85c224cdeed0459505b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 47
+}
